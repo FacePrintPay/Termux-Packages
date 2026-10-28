@@ -6,3 +6,5 @@
 > #### Why?
 > - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks).
 > - [More Details](https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=INFO.md
