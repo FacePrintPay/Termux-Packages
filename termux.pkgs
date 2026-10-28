@@ -149,7 +149,7 @@
 | **biome2** | 2.6.3 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
-| **bitcoin** | 31.1-1 | Bitcoin Core | https://bitcoincore.org/ |
+| **bitcoin** | 32.1 | Bitcoin Core | https://bitcoincore.org/ |
 | **bitlbee** | 3.6-1-2 | An IRC to other chat networks gateway | https://www.bitlbee.org/ |
 | **bk** | 0.6.0-1 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **black-hole-solver** | 1.14.0-1 | Black Hole Solver is a solitaire solver for 'Golf', 'Black Hole' and 'All in a Row'. | https://fc-solve.shlomifish.org/ |
@@ -273,7 +273,7 @@
 | **cmark** | 0.31.2-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
-| **cmus** | 2.12.0-8 | Small, fast and powerful console music player | https://cmus.github.io/ |
+| **cmus** | 2.13.0 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
 | **codex** | 0.165.0 | Lightweight coding agent that runs in your terminal | https://github.com/openai/codex |
@@ -493,7 +493,7 @@
 | **exercism** | 3.5.9-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.4.3 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.59-2 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.60 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.9 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.5 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -544,7 +544,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.1 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.123 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.5.0 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0-1 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:12.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -808,7 +808,7 @@
 | **hunspell-nl** | 1:2.20.23 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.6 | Static libraries for hunspell | https://hunspell.github.io |
-| **hurl** | 8.0.1 | Command line tool that runs and tests HTTP requests defined in a plain text format | https://hurl.dev |
+| **hurl** | 8.1.0 | Command line tool that runs and tests HTTP requests defined in a plain text format | https://hurl.dev |
 | **hut** | 0.9.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hwdata** | 0.412 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.32-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
@@ -872,7 +872,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 12.2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 12.2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.128.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.129.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -929,7 +929,7 @@
 | **ldns** | 1.9.2 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.9.2 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-5 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 5.5.2-1 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 5.6.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **lensfun** | 0.3.4-1 | Lensfun | https://lensfun.github.io/ |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
@@ -1551,7 +1551,7 @@
 | **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5-2 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5-2 | Static libraries for libtatsu | https://libimobiledevice.org/ |
-| **libtbb** | 2023.1.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
+| **libtbb** | 2023.2.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
 | **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.15-1 | A trivial database system | https://tdb.samba.org/ |
@@ -1729,9 +1729,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.7.0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.7.0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.7.0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.8.0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.8.0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.8.0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.4.0 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1785,7 +1785,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-3 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.50.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.51.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lwjgl2** | 2.9.3 | Lightweight Java Game Library 2 (LWJGL 2) | https://legacy.lwjgl.org/ |
 | **lwjgl3** | 3.4.3 | Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers | https://www.lwjgl.org/ |
@@ -1871,11 +1871,11 @@
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.9 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.9 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.2.5 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.2.5 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.2.5 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.2.5 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-virtio** | 26.2.5 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.2.6 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.2.6 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.2.6 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.2.6 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-virtio** | 26.2.6 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260719-1 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15-3 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -2011,7 +2011,7 @@
 | **nginx** | 1.31.8 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
-| **nim** | 2.2.12 | Nim programming language compiler | https://nim-lang.org/ |
+| **nim** | 2.4.0 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.13.2 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
@@ -2327,7 +2327,7 @@
 | **python-torch-static** | 2.14.1-3 | Static libraries for python-torch | https://pytorch.org/ |
 | **python-torchaudio** | 2.11.0-4 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.17.0-2 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.29.1-3 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torchvision** | 0.29.2 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-trash-cli** | 0.26.9.29 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2425,7 +2425,7 @@
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.9.1-2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.48 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
-| **rmlint** | 2.10.3 | Extremely fast tool to find space waste and duplicate files | https://github.com/sahib/rmlint |
+| **rmlint** | 2.10.4 | Extremely fast tool to find space waste and duplicate files | https://github.com/sahib/rmlint |
 | **rmpc** | 0.11.0 | A configurable TUI MPD client with album art support | https://mierak.github.io/rmpc/ |
 | **rmw** | 0.10.0 | A command-line recycle bin utility (ReMove to Waste) | https://theimpossibleastronaut.com/rmw-website/ |
 | **rnr** | 0.5.1 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
@@ -2527,7 +2527,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 5.0.6 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 5.0.7 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **sing-box** | 1.14.4 | The universal proxy platform | https://sing-box.sagernet.org |
@@ -2719,8 +2719,8 @@
 | **tin-summer** | 1.21.14-2 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |
 | **tintin++** | 2.02.61 | Classic text-based MUD client | https://tintin.mudhalla.net |
 | **tinyfugue** | 5.0b8-4 | Flexible, screen-oriented MUD client, for use with any type of MUD | https://tinyfugue.sourceforge.net/ |
-| **tinygo** | 0.43.0-1 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
-| **tinygo-common** | 0.43.0-1 | TinyGo common files | https://tinygo.org |
+| **tinygo** | 0.44.0 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
+| **tinygo-common** | 0.44.0 | TinyGo common files | https://tinygo.org |
 | **tinymist** | 0.15.10 | An integrated language service for Typst | https://myriad-dreamin.github.io/tinymist |
 | **tinyproxy** | 1.11.3 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
@@ -2734,7 +2734,7 @@
 | **tome2** | 2025.12.13-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 17.14.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
-| **tor** | 0.4.9.14 | The Onion Router anonymizing overlay network | https://www.torproject.org |
+| **tor** | 0.4.9.15 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.7 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
@@ -2800,7 +2800,7 @@
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
-| **ty** | 0.0.93 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.94 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2828,7 +2828,7 @@
 | **up** | 0.4-5 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.3 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
 | **upower** | 1.91.5 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
-| **upx** | 5.2.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
+| **upx** | 5.3.0 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 6.0.2 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-3 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
