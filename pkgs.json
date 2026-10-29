@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "calc",
-    "Version": "2.17.0.2",
+    "Version": "2.17.0.2-1",
     "Description": "Arbitrary precision console calculator",
     "Homepage": "http://www.isthe.com/chongo/tech/comp/calc/"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.10.3",
+    "Version": "2.11.0",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "Package": "ffmpegthumbnailer",
-    "Version": "2.3.1-1",
+    "Version": "2.4.0",
     "Description": "Lightweight video thumbnailer that can be used by file managers",
     "Homepage": "https://github.com/dirkvdb/ffmpegthumbnailer"
   },
@@ -4699,7 +4699,7 @@
   },
   {
     "Package": "hk",
-    "Version": "2.9.0",
+    "Version": "2.10.0",
     "Description": "A tool for managing git hooks",
     "Homepage": "https://hk.jdx.dev/"
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.4.1",
+    "Version": "4.4.2",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -10723,7 +10723,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.51.0",
+    "Version": "0.52.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11209,7 +11209,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "2.6.0-2",
+    "Version": "2.7.0",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -13159,7 +13159,7 @@
   },
   {
     "Package": "php-zephir-parser",
-    "Version": "2.9.1",
+    "Version": "2.10.0",
     "Description": "The Zephir Parser delivered as a C extension for the PHP language",
     "Homepage": "https://github.com/phalcon/php-zephir-parser"
   },
@@ -16408,6 +16408,12 @@
     "Version": "4.4.0",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
+  },
+  {
+    "Package": "tomlplusplus",
+    "Version": "3.4.0",
+    "Description": "Header-only TOML config file parser and serializer for C++ 17",
+    "Homepage": "https://marzer.github.io/tomlplusplus/"
   },
   {
     "Package": "topgrade",

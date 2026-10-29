@@ -200,7 +200,7 @@
  cabin  0.17.0  A package manager and build system for C/C++  https://cabinpkg.com/ 
  cadaver  0.28  A command-line WebDAV client for Unix  https://notroj.github.io/cadaver/ 
  caddy  2.11.7-2  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
- calc  2.17.0.2  Arbitrary precision console calculator  http://www.isthe.com/chongo/tech/comp/calc/ 
+ calc  2.17.0.2-1  Arbitrary precision console calculator  http://www.isthe.com/chongo/tech/comp/calc/ 
  calcurse  4.8.2-2  calcurse is a calendar and scheduling application for the command line  https://calcurse.org/ 
  calcurse-caldav  4.8.2-2  Sync calcurse with remote caldav calendar  https://calcurse.org/ 
  capnproto  1.5.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
@@ -287,7 +287,7 @@
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.22  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  3.5.0-17  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.10.3  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.11.0  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.39.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
@@ -525,7 +525,7 @@
  fetchmailconf  6.6.9  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
  ffmpeg  9.0.2-1  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
- ffmpegthumbnailer  2.3.1-1  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
+ ffmpegthumbnailer  2.4.0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.11  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
  fftw-static  3.3.11  Static libraries for fftw  http://www.fftw.org/ 
@@ -781,7 +781,7 @@
  hidapi  0.15.0  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
  highway  1.4.0-1  Performance-portable, length-agnostic SIMD with runtime dispatch  https://github.com/google/highway 
  hilbish  1:2.3.4-2  The Moon-powered shell! A comfy and extensible shell for Lua fans!  https://rosettea.github.io/Hilbish/ 
- hk  2.9.0  A tool for managing git hooks  https://hk.jdx.dev/ 
+ hk  2.10.0  A tool for managing git hooks  https://hk.jdx.dev/ 
  hledger  1.52.4  Robust, friendly, fast plain text accounting software. (CLI only)  https://hledger.org/ 
  hledger-ui  1.52.4  hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.  https://hledger.org/ 
  hnterm  1.0.5-2  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
@@ -904,7 +904,7 @@
  kakoune  2026.05.21-1  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  22.0.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kew  4.4.1  Music for the Shell  https://kewplayer.com 
+ kew  4.4.2  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  3.0.8  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
@@ -1785,7 +1785,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-3  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.51.0  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.52.1  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lwjgl2  2.9.3  Lightweight Java Game Library 2 (LWJGL 2)  https://legacy.lwjgl.org/ 
  lwjgl3  3.4.3  Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers  https://www.lwjgl.org/ 
@@ -1866,7 +1866,7 @@
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.10  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
  mediamtx  1.21.3  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
- megacmd  2.6.0-2  Provides non UI access to MEGA services  https://mega.io/ 
+ megacmd  2.7.0  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.45  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.9  A logic/functional programming language  https://www.mercurylang.org/ 
@@ -2191,7 +2191,7 @@
  php-psr  1.2.0-4  PHP extension providing the accepted PSR interfaces  https://github.com/jbboehr/php-psr 
  php-redis  6.3.0RC1+really6.3.0  PHP extension for interfacing with Redis  https://github.com/phpredis/phpredis 
  php-sodium  8.5.12-1  Sodium module for PHP  https://php.net 
- php-zephir-parser  2.9.1  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
+ php-zephir-parser  2.10.0  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
  phpmyadmin  5.2.3-1  A PHP tool for administering MySQL and MariaDB databases  https://www.phpmyadmin.net 
  pianobar  2024.12.21-3  pianobar is a free/open-source, console-based client for the personalized online radio Pandora.  https://6xq.net/pianobar/ 
  pick  4.0.0-4  Utility to choose one option from a set of choices with fuzzy search functionality  https://github.com/calleerlandsson/pick 
@@ -2733,6 +2733,7 @@
  tomcat  11.0.27-1  Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies  https://tomcat.apache.org/ 
  tome2  2025.12.13-3  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
+ tomlplusplus  3.4.0  Header-only TOML config file parser and serializer for C++ 17  https://marzer.github.io/tomlplusplus/ 
  topgrade  17.14.1  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
  tor  0.4.9.15  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
