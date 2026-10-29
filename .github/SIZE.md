@@ -20,10 +20,8 @@
 4.0K   │ └── aios_core.md
 4.0K   ├── vercel.json
 4.0K   ├── run.sh
+4.0K   ├── package.json
 4.0K   ├── LICENSE
 4.0K   ├── INFO.md
-4.0K   ├── CNAME
-  0B   └── package.json
+4.0K   └── CNAME
 ```
-
-# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=SIZE.md
