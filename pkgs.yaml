@@ -319,7 +319,7 @@
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
-  Version: 0.60.8.2
+  Version: 0.60.8.3
   Description: A free and open source spell checker designed to replace Ispell
   Homepage: http://aspell.net
 - Package: aspell-de
@@ -339,7 +339,7 @@
   Description: French dictionary for aspell
   Homepage: http://aspell.net/
 - Package: aspell-static
-  Version: 0.60.8.2
+  Version: 0.60.8.3
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-10.0
@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.38.5
+  Version: 2.39.1
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -483,7 +483,7 @@
   Description: Microsofts command-line tool for managing Azure cloud resources
   Homepage: https://learn.microsoft.com/en-us/cli/azure/
 - Package: azure-dev-cli
-  Version: 1.37.1
+  Version: 1.37.2
   Description: Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)
   Homepage: https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/
 - Package: b3sum
@@ -591,7 +591,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.6.3
+  Version: 2.6.4
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -2587,7 +2587,7 @@
   Description: Static libraries for gl2ps
   Homepage: https://www.geuz.org/gl2ps/
 - Package: glab-cli
-  Version: 1.125.0
+  Version: 1.126.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2639,11 +2639,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 4.0.6
+  Version: 4.0.7-1
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 4.0.6
+  Version: 4.0.7-1
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2931,7 +2931,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 16.1.4-1
+  Version: 16.1.5
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3187,15 +3187,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.50.5
+  Version: 3.51.0
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.50.5
+  Version: 3.51.0
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.50.5
+  Version: 3.51.0
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -7971,7 +7971,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1959+g61e71ccf8a-0
+  Version: 0.13.0~dev-1963+g9290926ccf-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8231,11 +8231,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.40.12
+  Version: 0.40.13
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.40.12
+  Version: 0.40.13
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -8551,7 +8551,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20260922"
+  Version: "20261022"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -9015,7 +9015,7 @@
   Description: Official command-line client for Proton Drive
   Homepage: https://github.com/ProtonDriveApps/sdk
 - Package: proton-pass-cli
-  Version: 2.4.2-2
+  Version: 2.5.1
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -10115,7 +10115,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 5.0.7
+  Version: 5.0.8
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10191,15 +10191,15 @@
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
 - Package: snowflake
-  Version: 2.15.2-1
+  Version: 2.15.3
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-client
-  Version: 2.15.2-1
+  Version: 2.15.3
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-proxy
-  Version: 2.15.2-1
+  Version: 2.15.3
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
