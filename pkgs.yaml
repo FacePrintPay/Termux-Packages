@@ -219,7 +219,7 @@
   Description: A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).
   Homepage: https://apktool.org/
 - Package: appstream
-  Version: 1.2.1
+  Version: 1.2.2
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
