@@ -188,7 +188,7 @@
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
- byobu  7.22  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
+ byobu  7.23  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
  bzip2  1.0.8-8  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.9  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-toxcore  0.2.23  Backend library for the Tox protocol  https://tox.chat 
@@ -264,7 +264,7 @@
  clinfo  3.1.26.09.26  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
- cloudflared  2026.10.5  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
+ cloudflared  2026.10.6  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  3.0.4  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clucene  2.3.3.4-8  C++ port of the high-performance text search engine Lucene  http://clucene.sourceforge.net/ 
  clvk  0.0.20261020.193740  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
@@ -1785,7 +1785,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-3  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.52.1  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.52.2  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lwjgl2  2.9.3  Lightweight Java Game Library 2 (LWJGL 2)  https://legacy.lwjgl.org/ 
  lwjgl3  3.4.3  Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers  https://www.lwjgl.org/ 
@@ -1896,7 +1896,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.10.18  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.10.23  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkcert  1.4.4-1  A simple zero-config tool to make locally trusted development certificates  https://github.com/FiloSottile/mkcert 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
@@ -2437,7 +2437,7 @@
  rp-pppoe  4.0-1  A PPP-over-Ethernet redirector for pppd  https://dianne.skoll.ca/projects/rp-pppoe/ 
  rpm  6.1.0  RPM Package Manager  https://rpm.org/ 
  rq  1.0.4-2  A tool for doing record analysis and transformation  https://github.com/dflemstr/rq 
- rqbit  9.0.1  A bittorrent command line client and server  https://github.com/ikatson/rqbit 
+ rqbit  9.1.0  A bittorrent command line client and server  https://github.com/ikatson/rqbit 
  rsgain  3.8-1  A simple audio normalizazion utility  https://github.com/complexlogic/rsgain 
  rsnapshot  1.5.1  A remote filesystem snapshot utility  https://www.rsnapshot.org/ 
  rsync  3.5.1  Fast incremental file transfer utility  https://rsync.samba.org/ 
@@ -2901,7 +2901,7 @@
  wasm-component-ld  0.5.31  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.18.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.5.0  A fast and secure WebAssembly runtime  https://wasmer.io/ 
- wasmtime  50.0.0  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
+ wasmtime  50.0.1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.8.0  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.3  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
@@ -2989,7 +2989,7 @@
  yuma123  2.14  Provides an opensource YANG API in C  https://yuma123.org/ 
  yuma123-static  2.14  Static libraries for yuma123  https://yuma123.org/ 
  z-push  2.7.7  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
- z3  5.3.2  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
+ z3  5.3.3  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
  zbar  0.23.95  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
  zbar-static  0.23.95  Static libraries for zbar  https://github.com/mchehab/zbar 
  zellij  0.45.1-1  A terminal workspace with batteries included  https://zellij.dev/ 

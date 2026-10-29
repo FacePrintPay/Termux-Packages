@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.22",
+    "Version": "7.23",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.10.5",
+    "Version": "2026.10.6",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -10723,7 +10723,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.52.1",
+    "Version": "0.52.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11389,7 +11389,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.18",
+    "Version": "2026.10.23",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -14635,7 +14635,7 @@
   },
   {
     "Package": "rqbit",
-    "Version": "9.0.1",
+    "Version": "9.1.0",
     "Description": "A bittorrent command line client and server",
     "Homepage": "https://github.com/ikatson/rqbit"
   },
@@ -17419,7 +17419,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "50.0.0",
+    "Version": "50.0.1",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },
@@ -17947,7 +17947,7 @@
   },
   {
     "Package": "z3",
-    "Version": "5.3.2",
+    "Version": "5.3.3",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
