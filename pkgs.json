@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "Package": "codex",
-    "Version": "0.165.0",
+    "Version": "0.166.0",
     "Description": "Lightweight coding agent that runs in your terminal",
     "Homepage": "https://github.com/openai/codex"
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.71.0",
+    "Version": "0.72.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -2815,7 +2815,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.20.4",
+    "Version": "1.20.5",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
@@ -2929,7 +2929,7 @@
   },
   {
     "Package": "et",
-    "Version": "7.0.0-2",
+    "Version": "7.1.0",
     "Description": "A remote shell that automatically reconnects without interrupting the session",
     "Homepage": "https://eternalterminal.dev"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "Package": "ffmpegthumbnailer",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Lightweight video thumbnailer that can be used by file managers",
     "Homepage": "https://github.com/dirkvdb/ffmpegthumbnailer"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.5.0",
+    "Version": "0.5.1",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3397,13 +3397,13 @@
   },
   {
     "Package": "fribidi",
-    "Version": "1.0.17",
+    "Version": "1.0.18",
     "Description": "Implementation of the Unicode Bidirectional Algorithm",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
   {
     "Package": "fribidi-static",
-    "Version": "1.0.17",
+    "Version": "1.0.18",
     "Description": "Static libraries for fribidi",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "Package": "hollywood",
-    "Version": "1.25",
+    "Version": "1.26",
     "Description": "Fill your console with Hollywood melodrama technobabble",
     "Homepage": "https://launchpad.net/hollywood"
   },
@@ -10063,7 +10063,7 @@
   },
   {
     "Package": "libxisf",
-    "Version": "0.2.14",
+    "Version": "0.2.15",
     "Description": "Library to load and save XISF images",
     "Homepage": "https://nouspiro.space"
   },
@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1792588164+ga4c0645",
+    "Version": "1:2.1.1793275035+g8ca7629",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10675,7 +10675,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1792588164+ga4c0645",
+    "Version": "1:2.1.1793275035+g8ca7629",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "luv",
-    "Version": "1.53.0-0-0",
+    "Version": "1.53.0-1-0",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
@@ -10993,7 +10993,7 @@
   },
   {
     "Package": "maturin",
-    "Version": "1.15.0-1",
+    "Version": "1.16.0",
     "Description": "Build and publish Rust crates (pyo3, cffi, uniffi bindings) as Python packages",
     "Homepage": "https://maturin.rs/"
   },
@@ -11455,7 +11455,7 @@
   },
   {
     "Package": "mongosh",
-    "Version": "2.14.0",
+    "Version": "2.14.1",
     "Description": "The MongoDB Shell",
     "Homepage": "https://github.com/mongodb-js/mongosh"
   },
@@ -11485,7 +11485,7 @@
   },
   {
     "Package": "monolith",
-    "Version": "2.11.6",
+    "Version": "2.11.7",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.19.5-1",
+    "Version": "2.19.6",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1963+g9290926ccf-0",
+    "Version": "0.13.0~dev-1964+ge0516a46e8-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12175,7 +12175,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.21.1",
+    "Version": "12.2.1",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -12655,7 +12655,7 @@
   },
   {
     "Package": "opkssh",
-    "Version": "0.19.1",
+    "Version": "0.19.2",
     "Description": "Enables SSH to be used with OpenID Connect",
     "Homepage": "https://github.com/openpubkey/opkssh"
   },
@@ -14599,7 +14599,7 @@
   },
   {
     "Package": "rolldown",
-    "Version": "1.2.15",
+    "Version": "1.2.16",
     "Description": "Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API",
     "Homepage": "https://rolldown.rs/"
   },
@@ -14887,7 +14887,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.9",
+    "Version": "2.6.10",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
@@ -15175,7 +15175,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "5.0.8",
+    "Version": "5.1.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -16819,7 +16819,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.94",
+    "Version": "0.0.95",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17305,7 +17305,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.366",
+    "Version": "1.4.367",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -17341,7 +17341,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.366",
+    "Version": "1.4.367",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
@@ -17353,7 +17353,7 @@
   },
   {
     "Package": "vulkan-volk",
-    "Version": "1.4.350",
+    "Version": "1.4.363",
     "Description": "Meta loader for Vulkan API",
     "Homepage": "https://github.com/zeux/volk"
   },
