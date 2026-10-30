@@ -1597,7 +1597,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.10.6",
+    "Version": "2026.10.7",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.11.0",
+    "Version": "2.11.1",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -5989,7 +5989,7 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:6.4.0",
+    "Version": "1:6.4.2",
     "Description": "LLVM Blocks runtime library",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -6457,7 +6457,7 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:6.4.0",
+    "Version": "1:6.4.2",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -7057,7 +7057,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.85.0",
+    "Version": "1.85.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -11389,7 +11389,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.23",
+    "Version": "2026.10.24",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11593,7 +11593,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.17",
+    "Version": "0.24.18",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -13309,7 +13309,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.16.1",
+    "Version": "12.17.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -13753,7 +13753,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.85.0",
+    "Version": "1.85.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -15499,7 +15499,7 @@
   },
   {
     "Package": "squid",
-    "Version": "7.7",
+    "Version": "7.8",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
@@ -15805,7 +15805,7 @@
   },
   {
     "Package": "superhtml",
-    "Version": "0.7.0-1",
+    "Version": "0.7.1",
     "Description": "A HTML language server and templating engine formatter/linter",
     "Homepage": "https://github.com/kristoff-it/superhtml"
   },
@@ -17329,13 +17329,13 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.366",
+    "Version": "1.4.367",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.366",
+    "Version": "1.4.367",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
