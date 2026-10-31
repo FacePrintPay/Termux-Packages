@@ -839,7 +839,7 @@
   Description: Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database
   Homepage: https://rustsec.org
 - Package: cargo-binstall
-  Version: 1.26.1
+  Version: 1.26.2
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -1863,7 +1863,7 @@
   Description: Static libraries for electric-fence
   Homepage: https://elinux.org/Electric_Fence
 - Package: electrum
-  Version: 4.8.2
+  Version: 4.8.3
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
@@ -2259,7 +2259,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.5.4
+  Version: 0.5.7
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -3995,11 +3995,11 @@
   Description: LLVM Blocks runtime library
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libblosc
-  Version: 1.21.6-2
+  Version: 1.21.7
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libblosc-static
-  Version: 1.21.6-2
+  Version: 1.21.7
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
@@ -4783,11 +4783,11 @@
   Description: Static libraries for libhtmlcxx
   Homepage: https://htmlcxx.sourceforge.net/
 - Package: libhyphen
-  Version: 2.8.9
+  Version: 2.8.10
   Description: hyphenation library to use converted TeX hyphenation patterns
   Homepage: https://github.com/hunspell/hyphen
 - Package: libhyphen-static
-  Version: 2.8.9
+  Version: 2.8.10
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
@@ -6007,7 +6007,7 @@
   Description: SkiaSharp is a cross-platform 2D graphics API for .NET platforms
   Homepage: https://github.com/mono/SkiaSharp
 - Package: libslirp
-  Version: 4.9.5
+  Version: 4.9.7
   Description: A general purpose TCP-IP emulator
   Homepage: https://gitlab.freedesktop.org/slirp/libslirp
 - Package: libsm
@@ -6215,11 +6215,11 @@
   Description: oneAPI Threading Building Blocks
   Homepage: https://uxlfoundation.github.io/oneTBB/
 - Package: libtd
-  Version: 1.8.50-1
+  Version: 1.8.69
   Description: Library for building Telegram clients
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtd-static
-  Version: 1.8.50-1
+  Version: 1.8.69
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
@@ -6559,7 +6559,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 5.0.0-1
+  Version: 5.1.0
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -7991,7 +7991,7 @@
   Description: Configuration tools for Linux networking
   Homepage: http://net-tools.sourceforge.net/
 - Package: netcat-openbsd
-  Version: 1.238-1-2
+  Version: 1.239-1-0
   Description: TCP/IP swiss army knife. OpenBSD variant.
   Homepage: https://packages.debian.org/sid/netcat-openbsd
 - Package: netcdf-c
@@ -8243,7 +8243,7 @@
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
-  Version: 3.1.0
+  Version: 3.2.0
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
@@ -8307,7 +8307,7 @@
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: openexr
-  Version: 3.5.2
+  Version: 3.5.3
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
@@ -8959,7 +8959,7 @@
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
-  Version: 2.3.1-3
+  Version: 3.0.2
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy
@@ -9363,83 +9363,83 @@
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A set common files used by the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qemu-system-aarch64-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-arm-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-i386-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-m68k-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc64-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv32-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv64-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-x86-64-headless
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-user-aarch64
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-arm
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-i386
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-m68k
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc64
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv32
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv64
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-x86-64
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-utils
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
@@ -9979,11 +9979,11 @@
   Description: Command line utility for SeaORM, an async & dynamic ORM for Rust
   Homepage: https://github.com/SeaQL/sea-orm
 - Package: seafile-client
-  Version: 9.0.22
+  Version: 9.0.22-1
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.22
+  Version: 9.0.22-1
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
@@ -10607,11 +10607,11 @@
   Description: Android sysprop generators
   Homepage: https://github.com/termux/android-build-tools
 - Package: ta-lib
-  Version: 0.8.1
+  Version: 0.8.3
   Description: Technical analysis library with indicators like ADX
   Homepage: https://ta-lib.org/
 - Package: ta-lib-static
-  Version: 0.8.1
+  Version: 0.8.3
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
@@ -11147,7 +11147,7 @@
   Description: ttyd protocol client
   Homepage: https://github.com/Depau/ttyc
 - Package: ttyd
-  Version: 1.7.7-5
+  Version: 1.7.7-6
   Description: Command-line tool for sharing terminal over the web
   Homepage: https://tsl0922.github.io/ttyd/
 - Package: ttyper
@@ -11407,7 +11407,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.25.1
+  Version: 3.26.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valkey

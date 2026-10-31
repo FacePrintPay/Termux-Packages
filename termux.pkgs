@@ -208,7 +208,7 @@
 | **capstone-static** | 5.0.9 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.8.1-1 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-audit** | 0.22.2 | Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database | https://rustsec.org |
-| **cargo-binstall** | 1.26.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.26.2 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.26 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
@@ -464,7 +464,7 @@
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.8.2 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.8.3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.197 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.20.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.20.5 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -563,7 +563,7 @@
 | **freetype** | 2.15.0 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.15.0 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.6.0 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.5.4 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.5.7 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.18 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.18 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -997,8 +997,8 @@
 | **libbcprov-java** | 1.86v2 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.42.4 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.4.2 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
-| **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
-| **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
+| **libblosc** | 1.21.7 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc-static** | 1.21.7 | Static libraries for libblosc | https://www.blosc.org |
 | **libblosc2** | 3.4.1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.5.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.5.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1194,8 +1194,8 @@
 | **libhiredis** | 1.5.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
-| **libhyphen** | 2.8.9 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
-| **libhyphen-static** | 2.8.9 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
+| **libhyphen** | 2.8.10 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
+| **libhyphen-static** | 2.8.10 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
 | **libical** | 4.0.7 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
 | **libice** | 1.1.2-1 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
 | **libiconv** | 1.19 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
@@ -1500,7 +1500,7 @@
 | **libsimdutf** | 9.3.3 | Unicode validation and transcoding at billions of characters per second | https://simdutf.github.io/simdutf/ |
 | **libsixel** | 1.10.5-1 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libskiasharp** | 3.119.4 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms | https://github.com/mono/SkiaSharp |
-| **libslirp** | 4.9.5 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
+| **libslirp** | 4.9.7 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.6-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.42.4 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
 | **libsnappy** | 1.3.1 | A compression/decompression library | https://github.com/google/snappy |
@@ -1552,8 +1552,8 @@
 | **libtatsu** | 1.0.5-2 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5-2 | Static libraries for libtatsu | https://libimobiledevice.org/ |
 | **libtbb** | 2023.2.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
-| **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
-| **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
+| **libtd** | 1.8.69 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
+| **libtd-static** | 1.8.69 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.15-1 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-5 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.2.0-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
@@ -1638,7 +1638,7 @@
 | **libwayland-protocols** | 1.49 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0.0.0.1+really1.6.0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 2.1 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
-| **libwebsockets** | 5.0.0-1 | Lightweight C websockets library | https://libwebsockets.org |
+| **libwebsockets** | 5.1.0 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.9.4 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwpd** | 0.10.3-4 | Library for importing WordPerfect (tm) documents | https://libwpd.sourceforge.net/ |
 | **libwpg** | 0.3.4-4 | Library for importing and converting Corel WordPerfect(tm) Graphics images. | https://libwpg.sourceforge.net/ |
@@ -1996,7 +1996,7 @@
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
 | **net-tools** | 2.10.0-1 | Configuration tools for Linux networking | http://net-tools.sourceforge.net/ |
-| **netcat-openbsd** | 1.238-1-2 | TCP/IP swiss army knife. OpenBSD variant. | https://packages.debian.org/sid/netcat-openbsd |
+| **netcat-openbsd** | 1.239-1-0 | TCP/IP swiss army knife. OpenBSD variant. | https://packages.debian.org/sid/netcat-openbsd |
 | **netcdf-c** | 4.10.1 | NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data | https://www.unidata.ucar.edu/software/netcdf/ |
 | **netcdf-c-static** | 4.10.1 | Static libraries for netcdf-c | https://www.unidata.ucar.edu/software/netcdf/ |
 | **nethack** | 5.0.0 | Dungeon crawl game | http://www.nethack.org/ |
@@ -2059,7 +2059,7 @@
 | **ollama** | 0.40.13 | Get up and running with large language models | https://ollama.com/ |
 | **ollama-backend-vulkan** | 0.40.13 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.28.2-1 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
-| **onefetch** | 3.1.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
+| **onefetch** | 3.2.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
 | **oniguruma** | 6.9.10-1 | Regular expressions library | https://github.com/kkos/oniguruma |
@@ -2075,7 +2075,7 @@
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3-1 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.6.0 | A color management framework for visual effects and animation | https://opencolorio.org |
-| **openexr** | 3.5.2 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
+| **openexr** | 3.5.3 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2606-1 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.7.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
@@ -2238,7 +2238,7 @@
 | **pounce** | 3.2 | A multi-client, TLS-only IRC bouncer | https://git.causal.agency/pounce |
 | **povray** | 3.8.0-beta.2-22 | The Persistence of Vision Raytracer | https://www.povray.org/ |
 | **povray-data** | 3.8.0-beta.2-22 | Platform-independent data for povray | https://www.povray.org/ |
-| **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
+| **predict** | 3.0.2 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
 | **privoxy** | 4.2.0 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 4.0.7-2 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
 | **procps-static** | 4.0.7-2 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
@@ -2339,26 +2339,26 @@
 | **q-dns-client** | 0.19.12-1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.13.1 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.13.1 | Static libraries for qalc | https://qalculate.github.io/ |
-| **qemu-common** | 1:11.1.2 | A set common files used by the QEMU emulators | https://www.qemu.org |
-| **qemu-system-aarch64-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-arm-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-i386-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-m68k-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc64-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv32-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv64-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-x86-64-headless** | 1:11.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-user-aarch64** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-arm** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-i386** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-m68k** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc64** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv32** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv64** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-x86-64** | 1:11.1.2 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-utils** | 1:11.1.2 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
+| **qemu-common** | 1:11.1.3 | A set common files used by the QEMU emulators | https://www.qemu.org |
+| **qemu-system-aarch64-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-arm-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-i386-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-m68k-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc64-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv32-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv64-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-x86-64-headless** | 1:11.1.3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-user-aarch64** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-arm** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-i386** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-m68k** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc64** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv32** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv64** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-x86-64** | 1:11.1.3 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-utils** | 1:11.1.3 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-2 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.4.2 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
@@ -2493,8 +2493,8 @@
 | **sd** | 1.1.0 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **sea-orm-cli** | 2.0.4 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
-| **seafile-client** | 9.0.22 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
-| **seafile-client-static** | 9.0.22 | Static libraries for seafile-client | https://seafile.com |
+| **seafile-client** | 9.0.22-1 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
+| **seafile-client-static** | 9.0.22-1 | Static libraries for seafile-client | https://seafile.com |
 | **seanime** | 3.10.4-1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
@@ -2650,8 +2650,8 @@
 | **swtpm-static** | 0.10.2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 2.1.7-1 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 16.0.0.4-4 | Android sysprop generators | https://github.com/termux/android-build-tools |
-| **ta-lib** | 0.8.1 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
-| **ta-lib-static** | 0.8.1 | Static libraries for ta-lib | https://ta-lib.org/ |
+| **ta-lib** | 0.8.3 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
+| **ta-lib-static** | 0.8.3 | Static libraries for ta-lib | https://ta-lib.org/ |
 | **taglib** | 2.3.2 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.10.0-2 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35-3 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
@@ -2785,7 +2785,7 @@
 | **tty-clock** | 2.3-2 | Simple terminal clock | https://github.com/xorg62/tty-clock |
 | **tty-solitaire** | 1.4.1-1 | Klondike solitaire game | https://github.com/mpereira/tty-solitaire |
 | **ttyc** | 0.4-5 | ttyd protocol client | https://github.com/Depau/ttyc |
-| **ttyd** | 1.7.7-5 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
+| **ttyd** | 1.7.7-6 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
 | **ttyper** | 1.6.0-1 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
 | **ttyplot** | 1.7.6 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-9 | Terminal recorder and player | https://0xcc.net/ttyrec/ |
@@ -2850,7 +2850,7 @@
 | **valac-static** | 0.56.19 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.25.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.26.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valkey** | 9.1.3 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.3 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
