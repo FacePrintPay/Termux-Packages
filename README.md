@@ -1910,7 +1910,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.10.24 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.10.25 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4-1 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2927,12 +2927,12 @@
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-5 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
 | **webtunnel** | 0.0.7-1 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
-| **weechat** | 4.10.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.10.1 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat** | 4.10.2 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.10.2 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-matrix-rs** | 2022.10.04-2 | Rust rewrite of the python weechat-matrix script | https://github.com/poljar/weechat-matrix-rs |
-| **weechat-perl-plugin** | 4.10.1 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.10.1 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.10.1 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.10.2 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.10.2 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.10.2 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4-3 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.4-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
