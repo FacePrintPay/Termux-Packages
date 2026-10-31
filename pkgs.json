@@ -11737,7 +11737,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "26.1.1",
+    "Version": "26.1.2",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },

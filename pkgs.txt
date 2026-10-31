@@ -1954,7 +1954,7 @@
  mutt  2.4.3  Mail client with patches from neomutt  http://www.mutt.org/ 
  mycli  2.30.2  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
- mympd  26.1.1  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
+ mympd  26.1.2  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
  myrepos  1.20180726-4  Tool to manage all your version control repos  https://myrepos.branchable.com/ 
  n-t-roff-sc  7.16-1.2.0-0  A vi-like spreadsheet calculator  https://github.com/n-t-roff/sc 
