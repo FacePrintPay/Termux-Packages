@@ -631,7 +631,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.24.1",
+    "Version": "18.24.4",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "Package": "discordo",
-    "Version": "2026.10.17+gb860df0a-1",
+    "Version": "2026.10.26+g9836b13d",
     "Description": "A lightweight, secure, and feature-rich Discord terminal client",
     "Homepage": "https://github.com/ayn2op/discordo"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.6.1",
+    "Version": "2.6.2",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "3.0.2",
+    "Version": "3.0.2-1",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "28.2.0-1",
+    "Version": "28.3.0",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3873,12 +3873,6 @@
     "Package": "gl2ps",
     "Version": "1.4.3",
     "Description": "An OpenGL to PostScript printing library",
-    "Homepage": "https://www.geuz.org/gl2ps/"
-  },
-  {
-    "Package": "gl2ps-static",
-    "Version": "1.4.2",
-    "Description": "Static libraries for gl2ps",
     "Homepage": "https://www.geuz.org/gl2ps/"
   },
   {
@@ -4123,7 +4117,7 @@
   },
   {
     "Package": "gojq",
-    "Version": "0.12.19-1",
+    "Version": "0.12.20",
     "Description": "Pure Go implementation of jq",
     "Homepage": "https://github.com/itchyny/gojq"
   },
@@ -4312,12 +4306,6 @@
     "Version": "1.21.0",
     "Description": "Ping, but with a graph",
     "Homepage": "https://github.com/orf/gping"
-  },
-  {
-    "Package": "gpsbabel",
-    "Version": "1.4.4-3",
-    "Description": "GPS file conversion plus transfer to/from GPS units",
-    "Homepage": "https://www.gpsbabel.org/"
   },
   {
     "Package": "gradle",
@@ -4699,7 +4687,7 @@
   },
   {
     "Package": "hk",
-    "Version": "2.10.0",
+    "Version": "2.11.0",
     "Description": "A tool for managing git hooks",
     "Homepage": "https://hk.jdx.dev/"
   },
@@ -5173,7 +5161,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2918",
+    "Version": "0.24.2918-1",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5233,13 +5221,13 @@
   },
   {
     "Package": "jellyfin-ffmpeg",
-    "Version": "12.4",
+    "Version": "12.4-1",
     "Description": "FFmpeg for Jellyfin with custom extensions and enhancements",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jellyfin-server",
-    "Version": "12.4",
+    "Version": "12.4-1",
     "Description": "A free media system for organizing and streaming media (server)",
     "Homepage": "https://jellyfin.org"
   },
@@ -10957,7 +10945,7 @@
   },
   {
     "Package": "marksman",
-    "Version": "2026.02.08",
+    "Version": "2026.02.08-1",
     "Description": "LSP language server for editing Markdown files",
     "Homepage": "https://github.com/artempyanykh/marksman"
   },
@@ -11428,12 +11416,6 @@
     "Version": "21.1.8-3",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
-  },
-  {
-    "Package": "mlocate",
-    "Version": "0.26-6",
-    "Description": "Tool to find files anywhere in the filesystem based on their name",
-    "Homepage": "https://pagure.io/mlocate"
   },
   {
     "Package": "mold",
@@ -12279,12 +12261,6 @@
     "Package": "octave",
     "Version": "2:11.3.0-2",
     "Description": "GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)",
-    "Homepage": "https://octave.org"
-  },
-  {
-    "Package": "octave-static",
-    "Version": "2:11.3.0-1",
-    "Description": "Static libraries for octave",
     "Homepage": "https://octave.org"
   },
   {
@@ -13537,7 +13513,7 @@
   },
   {
     "Package": "prowlarr",
-    "Version": "2.7.0.5723",
+    "Version": "2.7.0.5723-1",
     "Description": "An indexer manager/proxy built on the popular arr stack (server)",
     "Homepage": "https://prowlarr.com"
   },
@@ -14209,7 +14185,7 @@
   },
   {
     "Package": "quickjs-ng",
-    "Version": "0.17.0",
+    "Version": "0.18.0",
     "Description": "Embeddable JavaScript engine in C (NG fork)",
     "Homepage": "https://quickjs-ng.github.io/quickjs/"
   },
@@ -15451,7 +15427,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.12",
+    "Version": "21.1.13",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
@@ -16807,7 +16783,7 @@
   },
   {
     "Package": "txikijs",
-    "Version": "1:26.6.0",
+    "Version": "1:26.11.0",
     "Description": "A small and powerful JavaScript runtime",
     "Homepage": "https://github.com/saghul/txiki.js"
   },
@@ -17116,6 +17092,18 @@
     "Version": "3.26.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
+  },
+  {
+    "Package": "valgrind",
+    "Version": "3.27.1",
+    "Description": "Instrumentation framework for building dynamic analysis tools",
+    "Homepage": "https://valgrind.org/"
+  },
+  {
+    "Package": "valgrind-static",
+    "Version": "3.27.1",
+    "Description": "Static libraries for valgrind",
+    "Homepage": "https://valgrind.org/"
   },
   {
     "Package": "valkey",

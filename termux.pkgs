@@ -103,7 +103,7 @@
 | **atool** | 0.39.0-3 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.6.0 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.6.0 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.24.1 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.24.4 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-8 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-8 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -362,7 +362,7 @@
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.38.2-1 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.5 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
-| **discordo** | 2026.10.17+gb860df0a-1 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
+| **discordo** | 2026.10.26+g9836b13d | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
 | **discount** | 3.0.2.0 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
@@ -543,7 +543,7 @@
 | **flex** | 2.6.4-5 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
-| **fluidsynth** | 2.6.1 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.6.2 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.5.1 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0-1 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:12.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
@@ -627,7 +627,7 @@
 | **git-absorb** | 0.9.0 | git commit --fixup, but automatic | https://github.com/tummychow/git-absorb |
 | **git-annex** | 10.20261026 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
 | **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
-| **git-credential-manager** | 3.0.2 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
+| **git-credential-manager** | 3.0.2-1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.20.1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-extras** | 7.5.0 | Little git extras. | https://github.com/tj/git-extras |
@@ -637,14 +637,13 @@
 | **git-sizer** | 1.5.0-6 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.56.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 24.1.0-1 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 28.2.0-1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 28.3.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitleaks** | 8.30.1-2 | Detect secrets like passwords, API keys, and tokens in git repos and files | https://github.com/gitleaks/gitleaks |
 | **gitoxide** | 0.61.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **gl2ps** | 1.4.3 | An OpenGL to PostScript printing library | https://www.geuz.org/gl2ps/ |
-| **gl2ps-static** | 1.4.2 | Static libraries for gl2ps | https://www.geuz.org/gl2ps/ |
 | **glab-cli** | 1.126.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.19.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.90.1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
@@ -685,7 +684,7 @@
 | **gofumpt** | 0.12.0-1 | A stricter gofmt, backwards compatible drop-in replacement | https://github.com/mvdan/gofumpt |
 | **gogs** | 0.14.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **goimports** | 0.52.0-1 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
-| **gojq** | 0.12.19-1 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
+| **gojq** | 0.12.20 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.27.3 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.3 | Go programming language - documentation | https://go.dev/ |
 | **golang-migrate** | 4.20.1-1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
@@ -717,7 +716,6 @@
 | **gpgmepp** | 2.2.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.24 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.21.0 | Ping, but with a graph | https://github.com/orf/gping |
-| **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.8.2 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:13.3.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
@@ -781,7 +779,7 @@
 | **hidapi** | 0.15.0 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
 | **highway** | 1.4.0-1 | Performance-portable, length-agnostic SIMD with runtime dispatch | https://github.com/google/highway |
 | **hilbish** | 1:2.3.4-2 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
-| **hk** | 2.10.0 | A tool for managing git hooks | https://hk.jdx.dev/ |
+| **hk** | 2.11.0 | A tool for managing git hooks | https://hk.jdx.dev/ |
 | **hledger** | 1.52.4 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
 | **hledger-ui** | 1.52.4 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
@@ -860,7 +858,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2918 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2918-1 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.6 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.6 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -870,8 +868,8 @@
 | **jbig2enc-static** | 1:0.32 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jellyfin-ffmpeg** | 12.4 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
-| **jellyfin-server** | 12.4 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
+| **jellyfin-ffmpeg** | 12.4-1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
+| **jellyfin-server** | 12.4-1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
 | **jfrog-cli** | 2.129.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
@@ -1824,7 +1822,7 @@
 | **mariadb-static** | 2:13.0.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.1-1 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
-| **marksman** | 2026.02.08 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
+| **marksman** | 2026.02.08-1 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
 | **mathomatic** | 16.0.5-7 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
 | **matplotlib** | 3.11.2-2 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-5 | A simple chat bridge | https://github.com/42wim/matterbridge |
@@ -1903,7 +1901,6 @@
 | **mksh** | 59c-5 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-1 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 21.1.8-3 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
-| **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 3.0.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.5.4-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.9-1 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
@@ -2045,7 +2042,6 @@
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
 | **octave** | 2:11.3.0-2 | GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI) | https://octave.org |
-| **octave-static** | 2:11.3.0-1 | Static libraries for octave | https://octave.org |
 | **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
@@ -2254,7 +2250,7 @@
 | **proton-drive-cli** | 0.9.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
 | **proton-pass-cli** | 2.5.1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
-| **prowlarr** | 2.7.0.5723 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
+| **prowlarr** | 2.7.0.5723-1 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.5.4 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
@@ -2366,7 +2362,7 @@
 | **qrupdate-ng** | 2:1.3.1 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
 | **qrupdate-ng-static** | 2:1.3.1 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.17.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.18.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.4.0 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.3 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2573,7 +2569,7 @@
 | **spidermonkey** | 140.17.0 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.363.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-llvm-translator** | 21.1.12 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
+| **spirv-llvm-translator** | 21.1.13 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.363.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlc** | 1.31.1-2 | Generate type-safe code from SQL | https://sqlc.dev |
 | **sqlcipher** | 4.20.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
@@ -2799,7 +2795,7 @@
 | **tvheadend-data** | 4.2.8-13 | Platform-independent data for tvheadend | https://tvheadend.org/ |
 | **tweego** | 2.1.1-5 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
-| **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
+| **txikijs** | 1:26.11.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
 | **ty** | 0.0.95 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
@@ -2851,6 +2847,8 @@
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
 | **vale** | 3.26.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **valgrind** | 3.27.1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
+| **valgrind-static** | 3.27.1 | Static libraries for valgrind | https://valgrind.org/ |
 | **valkey** | 9.1.3 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.3 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
