@@ -2399,7 +2399,7 @@
   Description: Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers
   Homepage: https://github.com/mozilla/geckodriver
 - Package: gecode
-  Version: 6.4.0
+  Version: 6.5.0
   Description: Generic Constraint Development Environment
   Homepage: https://www.gecode.dev/
 - Package: gegl
@@ -3311,11 +3311,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.34
+  Version: 7.1.2.35
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.34
+  Version: 7.1.2.35
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -7147,7 +7147,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.52.2
+  Version: 0.53.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7159,43 +7159,43 @@
   Description: Lightweight Java Game Library 2 (LWJGL 2)
   Homepage: https://legacy.lwjgl.org/
 - Package: lwjgl3
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.2.1
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.2.1 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.2.2
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.2.2 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.3.1
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.3.1 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.3.2
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.3.2 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.3.3
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.3.3 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.3.6
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.3.6 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.4.1
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.4.1 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.4.2
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.4.2 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lwjgl3-3.4.3
-  Version: 3.4.3
+  Version: 3.4.3-1
   Description: Lightweight Java Game Library 3.4.3 (LWJGL 3)
   Homepage: https://www.lwjgl.org/
 - Package: lychee
