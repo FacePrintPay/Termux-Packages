@@ -1729,7 +1729,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-17",
+    "Version": "3.5.0-18",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "3.0.1",
+    "Version": "3.0.2",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1970+g30d2de4d9f-0",
+    "Version": "0.13.0~dev-1988+gfacba8d36b-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12139,13 +12139,13 @@
   },
   {
     "Package": "nodejs",
-    "Version": "26.12.1",
+    "Version": "26.13.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
   {
     "Package": "nodejs-lts",
-    "Version": "24.22.1",
+    "Version": "24.22.2",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -13537,7 +13537,7 @@
   },
   {
     "Package": "prowlarr",
-    "Version": "2.6.5.5623",
+    "Version": "2.7.0.5723",
     "Description": "An indexer manager/proxy built on the popular arr stack (server)",
     "Homepage": "https://prowlarr.com"
   },
@@ -15175,7 +15175,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "5.1.0",
+    "Version": "5.1.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
