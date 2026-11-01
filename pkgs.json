@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.61.0",
+    "Version": "1.62.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.8.1-1",
+    "Version": "1.8.2",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.73.3-1",
+    "Version": "2.74.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1843,7 +1843,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.6.0",
+    "Version": "1:11.6.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2918-1",
+    "Version": "0.24.2985",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8311,13 +8311,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.9",
+    "Version": "0.8.10",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.9",
+    "Version": "0.8.10",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -9151,19 +9151,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.54.1",
+    "Version": "3.54.1-1",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.54.1",
+    "Version": "3.54.1-1",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.54.1",
+    "Version": "3.54.1-1",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -10711,7 +10711,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.53.0",
+    "Version": "0.53.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10945,7 +10945,7 @@
   },
   {
     "Package": "marksman",
-    "Version": "2026.02.08-1",
+    "Version": "2026.02.08-2",
     "Description": "LSP language server for editing Markdown files",
     "Homepage": "https://github.com/artempyanykh/marksman"
   },
@@ -12559,7 +12559,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.9",
+    "Version": "0.8.10",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -13471,7 +13471,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.101",
+    "Version": "5.1.107.102",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -15451,7 +15451,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.54.1",
+    "Version": "3.54.1-1",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -17095,13 +17095,13 @@
   },
   {
     "Package": "valgrind",
-    "Version": "3.27.1",
+    "Version": "3.28.0",
     "Description": "Instrumentation framework for building dynamic analysis tools",
     "Homepage": "https://valgrind.org/"
   },
   {
     "Package": "valgrind-static",
-    "Version": "3.27.1",
+    "Version": "3.28.0",
     "Description": "Static libraries for valgrind",
     "Homepage": "https://valgrind.org/"
   },
@@ -17335,7 +17335,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.365",
+    "Version": "1.4.367",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },

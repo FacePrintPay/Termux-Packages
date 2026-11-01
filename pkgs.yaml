@@ -707,7 +707,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.61.0
+  Version: 1.62.0
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -831,7 +831,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.8.1-1
+  Version: 1.8.2
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-audit
@@ -979,7 +979,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.73.3-1
+  Version: 2.74.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1227,7 +1227,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.6.0
+  Version: 1:11.6.1
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -3439,7 +3439,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2918-1
+  Version: 0.24.2985
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5539,11 +5539,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.9
+  Version: 0.8.10
   Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.9
+  Version: 0.8.10
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -6099,15 +6099,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.54.1
+  Version: 3.54.1-1
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.54.1
+  Version: 3.54.1-1
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.54.1
+  Version: 3.54.1-1
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -7139,7 +7139,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.53.0
+  Version: 0.53.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7295,7 +7295,7 @@
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
 - Package: marksman
-  Version: 2026.02.08-1
+  Version: 2026.02.08-2
   Description: LSP language server for editing Markdown files
   Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
@@ -8371,7 +8371,7 @@
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
 - Package: openmpt123
-  Version: 0.8.9
+  Version: 0.8.10
   Description: libopenmpt based command-line player for tracker music formats
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: openpgl
@@ -8979,7 +8979,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.101
+  Version: 5.1.107.102
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -10299,7 +10299,7 @@
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.54.1
+  Version: 3.54.1-1
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -11395,11 +11395,11 @@
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
-  Version: 3.27.1
+  Version: 3.28.0
   Description: Instrumentation framework for building dynamic analysis tools
   Homepage: https://valgrind.org/
 - Package: valgrind-static
-  Version: 3.27.1
+  Version: 3.28.0
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
 - Package: valkey
@@ -11555,7 +11555,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.365
+  Version: 1.4.367
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
