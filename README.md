@@ -211,7 +211,7 @@
 | **ca-certificates-java** | 1:2026.10.20-1 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.16.1.0-1 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
-| **cabin** | 0.17.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
+| **cabin** | 0.18.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.11.7-2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.17.0.2-1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
@@ -1898,7 +1898,7 @@
 | **minesweeper** | 0.3.1-5 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.11.1 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-5 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.3.4-1 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.3.5 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-2 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **miniserve** | 0.35.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
@@ -1998,11 +1998,11 @@
 | **ndk-sysroot** | 30 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-4 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.11.2 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
+| **neocmakelsp** | 0.12.0 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.6 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1988+gfacba8d36b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-2001+g7437121ea3-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2264,7 +2264,7 @@
 | **proton-drive-cli** | 0.9.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
 | **proton-pass-cli** | 2.5.1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
-| **prowlarr** | 2.7.0.5723-1 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
+| **prowlarr** | 2.7.0.5723-2 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.5.4 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
@@ -2275,7 +2275,7 @@
 | **pulseaudio-glib** | 17.0-5 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-8 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.54 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.12.0 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.12.7 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.2 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2465,7 +2465,7 @@
 | **ruff** | 0.17.3 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.3.1 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.3.1 | Static libraries for runit | http://smarden.org/runit |
-| **rush** | 0.11.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
+| **rush** | 0.11.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.99.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20261026 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.73.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |

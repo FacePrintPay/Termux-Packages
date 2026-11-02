@@ -1195,7 +1195,7 @@
   },
   {
     "Package": "cabin",
-    "Version": "0.17.0",
+    "Version": "0.18.0",
     "Description": "A package manager and build system for C/C++",
     "Homepage": "https://cabinpkg.com/"
   },
@@ -11317,7 +11317,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.3.4-1",
+    "Version": "2.3.5",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -11917,7 +11917,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.11.2",
+    "Version": "0.12.0",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -11941,7 +11941,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1988+gfacba8d36b-0",
+    "Version": "0.13.0~dev-2001+g7437121ea3-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13513,7 +13513,7 @@
   },
   {
     "Package": "prowlarr",
-    "Version": "2.7.0.5723-1",
+    "Version": "2.7.0.5723-2",
     "Description": "An indexer manager/proxy built on the popular arr stack (server)",
     "Homepage": "https://prowlarr.com"
   },
@@ -13579,7 +13579,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.12.0",
+    "Version": "1.12.7",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "https://www.ivarch.com/programs/pv.shtml"
   },
@@ -14719,7 +14719,7 @@
   },
   {
     "Package": "rush",
-    "Version": "0.11.0-1",
+    "Version": "0.11.1",
     "Description": "A cross-platform command-line tool for executing jobs in parallel",
     "Homepage": "https://github.com/shenwei356/rush"
   },
