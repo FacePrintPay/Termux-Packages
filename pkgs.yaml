@@ -555,7 +555,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bear
-  Version: 4.2.3
+  Version: 4.2.4
   Description: Bear is a tool that generates a compilation database for clang tooling.
   Homepage: https://github.com/rizsotto/Bear
 - Package: bed
@@ -851,7 +851,7 @@
   Description: Tool to manage cargo cache
   Homepage: https://github.com/matthiaskrgr/cargo-cache
 - Package: cargo-flamegraph
-  Version: 0.6.14
+  Version: 0.6.15
   Description: Simple cargo subcommand for generating flamegraphs, using inferno under the hood
   Homepage: https://github.com/flamegraph-rs/flamegraph
 - Package: cargo-leptos
@@ -1115,7 +1115,7 @@
   Description: Lightweight coding agent that runs in your terminal
   Homepage: https://github.com/openai/codex
 - Package: codon
-  Version: 0.20.5
+  Version: 0.20.6
   Description: A high-performance, zero-overhead, extensible Python compiler using LLVM
   Homepage: https://github.com/exaloop/codon
 - Package: coinor-cbc
@@ -1227,7 +1227,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.6.2
+  Version: 1:11.6.3
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1271,7 +1271,7 @@
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
 - Package: ctranslate2
-  Version: 4.8.4
+  Version: 4.8.5
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctre
@@ -1539,7 +1539,7 @@
   Description: Set of products that use OS-level virtualization to deliver software in packages called containers.
   Homepage: https://docker.com
 - Package: docker-compose
-  Version: 5.6.1-1
+  Version: 5.7.0
   Description: Compose is a tool for defining and running multi-container Docker applications.
   Homepage: https://github.com/docker/compose
 - Package: docopt
@@ -1759,7 +1759,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.46.0
+  Version: 3.0.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -2583,7 +2583,7 @@
   Description: An OpenGL to PostScript printing library
   Homepage: https://www.geuz.org/gl2ps/
 - Package: glab-cli
-  Version: 1.126.0
+  Version: 1.127.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2807,7 +2807,7 @@
   Description: Golang security checker
   Homepage: https://github.com/securego/gosec
 - Package: gost
-  Version: 3.3.2
+  Version: 3.3.3
   Description: GO Simple Tunnel - a simple tunnel written in golang
   Homepage: https://github.com/go-gost/gost
 - Package: gotests
@@ -3487,7 +3487,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.129.0
+  Version: 2.130.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3735,7 +3735,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.28"
+  Version: "2.29"
   Description: An input filter for the pager less
   Homepage: https://lesspipe.org/
 - Package: leveldb
@@ -4475,11 +4475,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.9.0
+  Version: 2.10.0
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.9.0
+  Version: 2.10.0
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libexttextcat
@@ -4863,7 +4863,7 @@
   Description: An immediate mode text-based user interface library
   Homepage: https://github.com/ggerganov/imtui
 - Package: libinih
-  Version: "62"
+  Version: "63"
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
@@ -5399,27 +5399,27 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.70.0
+  Version: 1.71.0
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.70.0
+  Version: 1.71.0
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
-  Version: 1.18.0
+  Version: 1.19.0
   Description: HTTP/3 library written in C
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnghttp3-static
-  Version: 1.18.0
+  Version: 1.19.0
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libngtcp2
-  Version: 1.25.0
+  Version: 1.26.0
   Description: Implementation of IETF QUIC protocol
   Homepage: https://github.com/ngtcp2/ngtcp2
 - Package: libngtcp2-static
-  Version: 1.25.0
+  Version: 1.26.0
   Description: Static libraries for libngtcp2
   Homepage: https://github.com/ngtcp2/ngtcp2
 - Package: libnl
@@ -7610,6 +7610,10 @@
   Version: 21.1.8-3
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
+- Package: mlocate
+  Version: 0.26-7
+  Description: Transitional package for plocate
+  Homepage: https://plocate.sesse.net/
 - Package: mold
   Version: 3.0.0
   Description: 'mold: A Modern Linker'
@@ -7643,7 +7647,7 @@
   Description: Static libraries for mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: monolith
-  Version: 2.11.7
+  Version: 2.12.0
   Description: CLI tool for saving complete web pages as a single HTML file
   Homepage: https://github.com/Y2Z/monolith
 - Package: moon-buggy
@@ -8831,7 +8835,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plocate
-  Version: 1.1.25
+  Version: 1.1.25-1
   Description: A much faster locate
   Homepage: https://plocate.sesse.net/
 - Package: plutolang
@@ -9139,7 +9143,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
-  Version: 4.8.4
+  Version: 4.8.5
   Description: Python bindings for CTranslate2
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels
@@ -9202,6 +9206,10 @@
   Version: 1.31.1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
+- Package: python-pandas
+  Version: 3.1.0
+  Description: Powerful Python data analysis toolkit
+  Homepage: https://pandas.pydata.org/
 - Package: python-pillow
   Version: 13.0.0
   Description: Python Imaging Library
@@ -9819,7 +9827,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20261026"
+  Version: "20261102"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10527,7 +10535,7 @@
   Description: Shell Users Revolutionary Front Rage Against the Web
   Homepage: https://gitlab.com/surfraw/Surfraw
 - Package: svt-av1
-  Version: 4.2.0
+  Version: 4.3.0
   Description: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
   Homepage: https://gitlab.com/AOMediaCodec/SVT-AV1
 - Package: swaks
@@ -11163,7 +11171,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.4.3
+  Version: 16.4.4
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
