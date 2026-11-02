@@ -1843,7 +1843,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.6.1",
+    "Version": "1:11.6.2",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.7.1",
+    "Version": "5.7.2",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -2683,7 +2683,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.6",
+    "Version": "1.2.7",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -17131,7 +17131,7 @@
   },
   {
     "Package": "vapoursynth",
-    "Version": "81",
+    "Version": "82",
     "Description": "Video processing framework with simplicity in mind",
     "Homepage": "https://www.vapoursynth.com/"
   },

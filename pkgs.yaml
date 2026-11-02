@@ -1227,7 +1227,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.6.1
+  Version: 1:11.6.2
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1507,7 +1507,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 5.7.1
+  Version: 5.7.2
   Description: Infrastructure as code for DNS!
   Homepage: https://dnscontrol.org/
 - Package: dnslookup
@@ -1787,7 +1787,7 @@
   Description: A CLI tool to pipe data over the network, with NAT hole punching
   Homepage: https://www.dumbpipe.dev/
 - Package: dust
-  Version: 1.2.6
+  Version: 1.2.7
   Description: A more intuitive version of du in rust
   Homepage: https://github.com/bootandy/dust
 - Package: dvdauthor
@@ -11419,7 +11419,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: "81"
+  Version: "82"
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
