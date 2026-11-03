@@ -3343,7 +3343,7 @@
   },
   {
     "Package": "foundry",
-    "Version": "1.8.7",
+    "Version": "1.9.0",
     "Description": "A blazing fast, portable and modular toolkit for Ethereum application development",
     "Homepage": "https://github.com/foundry-rs/foundry"
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "3.0.2-1",
+    "Version": "3.0.2-2",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.412",
+    "Version": "0.413",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.130.0",
+    "Version": "2.131.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -5899,7 +5899,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "26.0.0-3",
+    "Version": "26.0.1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12241,7 +12241,7 @@
   },
   {
     "Package": "oci-cli",
-    "Version": "3.95.1",
+    "Version": "3.96.0",
     "Description": "Command line interface for Oracle Cloud Infrastructure",
     "Homepage": "https://github.com/oracle/oci-cli"
   },
@@ -12331,13 +12331,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.40.13",
+    "Version": "0.40.14",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.40.13",
+    "Version": "0.40.14",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "Package": "proton-pass-cli",
-    "Version": "2.5.1",
+    "Version": "2.7.0",
     "Description": "Proton Pass Command Line Interface (CLI)",
     "Homepage": "https://protonpass.github.io/pass-cli/"
   },
@@ -13843,7 +13843,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "26.0.0-3",
+    "Version": "26.0.1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -15661,9 +15661,9 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.165.6",
+    "Version": "1.166.0",
     "Description": "Storj DCS Uplink CLI",
-    "Homepage": "https://www.storj.io/integrations/uplink-cli"
+    "Homepage": "https://github.com/storj/storj"
   },
   {
     "Package": "stow",

@@ -569,7 +569,7 @@
 | **forgejo-cli** | 0.7.0 | CLI tool for Forgejo | https://codeberg.org/forgejo-contrib/forgejo-cli |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
-| **foundry** | 1.8.7 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
+| **foundry** | 1.9.0 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
 | **freecell-solver** | 6.16.0-2 | Freecell Solver is an open source library for automatically solving several variants of Solitaire/Patience card games, including Freecell. | https://fc-solve.shlomifish.org/ |
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
 | **freeimage** | 3.18.0-7 | The library project for developers who would like to support popular graphics image formats | https://freeimage.sourceforge.io |
@@ -641,7 +641,7 @@
 | **git-absorb** | 0.9.0 | git commit --fixup, but automatic | https://github.com/tummychow/git-absorb |
 | **git-annex** | 10.20261026 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
 | **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
-| **git-credential-manager** | 3.0.2-1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
+| **git-credential-manager** | 3.0.2-2 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.20.1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-extras** | 7.5.0 | Little git extras. | https://github.com/tj/git-extras |
@@ -822,7 +822,7 @@
 | **hunspell-static** | 1.7.6 | Static libraries for hunspell | https://hunspell.github.io |
 | **hurl** | 8.1.0 | Command line tool that runs and tests HTTP requests defined in a plain text format | https://hurl.dev |
 | **hut** | 0.9.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.412 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.413 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.32-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 2.0.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.6-1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -884,7 +884,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 12.4-1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 12.4-1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.130.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.131.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -995,7 +995,7 @@
 | **libapt-pkg-perl** | 0.1.43-1 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.11 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.11 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 26.0.0-3 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 26.0.1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.38.2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.197 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.197 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -2052,7 +2052,7 @@
 | **nzbget** | 26.3-1 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.15 | One-time password components | https://oath-toolkit.codeberg.page/ |
 | **oathtool-static** | 2.6.15 | Static libraries for oathtool | https://oath-toolkit.codeberg.page/ |
-| **oci-cli** | 3.95.1 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
+| **oci-cli** | 3.96.0 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2067,8 +2067,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.40.13 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.40.13 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.40.14 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.40.14 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.28.2-1 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 3.2.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -2263,7 +2263,7 @@
 | **protobuf** | 2:36.2-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.27.1-1 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-drive-cli** | 0.9.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
-| **proton-pass-cli** | 2.5.1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
+| **proton-pass-cli** | 2.7.0 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **prowlarr** | 2.7.0.5723-2 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
@@ -2319,7 +2319,7 @@
 | **python-pip** | 26.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pipcl** | 13 | Python packaging operations for use by python-mupdf and python-pymupdf | https://github.com/ArtifexSoftware/pipcl |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
-| **python-pyarrow** | 26.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 26.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.24.1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pymupdf** | 1.28.2-3 | Python bindings for MuPDF's rendering library | https://github.com/pymupdf/PyMuPDF |
 | **python-pynacl** | 1.6.2 | Python binding to the Networking and Cryptography (NaCl) library | https://github.com/pyca/pynacl |
@@ -2622,7 +2622,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.165.6 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.166.0 | Storj DCS Uplink CLI | https://github.com/storj/storj |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.3 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |

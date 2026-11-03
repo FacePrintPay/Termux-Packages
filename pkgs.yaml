@@ -2227,7 +2227,7 @@
   Description: DSCM with built-in wiki, http interface and server, tickets database
   Homepage: https://www.fossil-scm.org
 - Package: foundry
-  Version: 1.8.7
+  Version: 1.9.0
   Description: A blazing fast, portable and modular toolkit for Ethereum application development
   Homepage: https://github.com/foundry-rs/foundry
 - Package: freecell-solver
@@ -2515,7 +2515,7 @@
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
   Homepage: https://git-cliff.org
 - Package: git-credential-manager
-  Version: 3.0.2-1
+  Version: 3.0.2-2
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -3239,7 +3239,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.412"
+  Version: "0.413"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -3487,7 +3487,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.130.0
+  Version: 2.131.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3931,7 +3931,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 26.0.0-3
+  Version: 26.0.1
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -8159,7 +8159,7 @@
   Description: Static libraries for oathtool
   Homepage: https://oath-toolkit.codeberg.page/
 - Package: oci-cli
-  Version: 3.95.1
+  Version: 3.96.0
   Description: Command line interface for Oracle Cloud Infrastructure
   Homepage: https://github.com/oracle/oci-cli
 - Package: ocl-icd
@@ -8219,11 +8219,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.40.13
+  Version: 0.40.14
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.40.13
+  Version: 0.40.14
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -9003,7 +9003,7 @@
   Description: Official command-line client for Proton Drive
   Homepage: https://github.com/ProtonDriveApps/sdk
 - Package: proton-pass-cli
-  Version: 2.5.1
+  Version: 2.7.0
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -9227,7 +9227,7 @@
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 26.0.0-3
+  Version: 26.0.1
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -10439,9 +10439,9 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.165.6
+  Version: 1.166.0
   Description: Storj DCS Uplink CLI
-  Homepage: https://www.storj.io/integrations/uplink-cli
+  Homepage: https://github.com/storj/storj
 - Package: stow
   Version: 2.4.1
   Description: Tool for managing the installation of multiple software packages into a single directory
