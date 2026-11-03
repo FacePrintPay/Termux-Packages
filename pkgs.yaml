@@ -2471,7 +2471,7 @@
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
 - Package: ghq
-  Version: 1.11.2-1
+  Version: 1.12.0
   Description: Manage remote repository clones, like go get does
   Homepage: https://github.com/x-motemen/ghq
 - Package: giflib
@@ -2583,7 +2583,7 @@
   Description: An OpenGL to PostScript printing library
   Homepage: https://www.geuz.org/gl2ps/
 - Package: glab-cli
-  Version: 1.127.0
+  Version: 1.128.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3123,7 +3123,7 @@
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hk
-  Version: 2.11.0
+  Version: 2.11.1
   Description: A tool for managing git hooks
   Homepage: https://hk.jdx.dev/
 - Package: hledger
@@ -7583,7 +7583,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.10.25
+  Version: 2026.11.0
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8487,7 +8487,7 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.90.0
+  Version: 1.91.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxipng
@@ -8495,7 +8495,7 @@
   Description: Multithreaded PNG optimizer written in Rust
   Homepage: https://github.com/oxipng/oxipng
 - Package: oxlint
-  Version: 1.90.0
+  Version: 1.91.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10935,7 +10935,7 @@
   Description: Header-only TOML config file parser and serializer for C++ 17
   Homepage: https://marzer.github.io/tomlplusplus/
 - Package: topgrade
-  Version: 17.14.1
+  Version: 17.15.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
