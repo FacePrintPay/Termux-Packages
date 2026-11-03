@@ -721,7 +721,7 @@
   },
   {
     "Package": "azure-cli",
-    "Version": "2.91.0",
+    "Version": "2.92.0",
     "Description": "Microsofts command-line tool for managing Azure cloud resources",
     "Homepage": "https://learn.microsoft.com/en-us/cli/azure/"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20261020.193740",
+    "Version": "0.0.20261102.231234",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2985",
+    "Version": "0.24.2994",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10711,7 +10711,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.53.1",
+    "Version": "0.53.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10969,7 +10969,7 @@
   },
   {
     "Package": "matterircd",
-    "Version": "0.33.0-1",
+    "Version": "0.34.0",
     "Description": "Connect to your mattermost or slack using your IRC-client of choice",
     "Homepage": "https://github.com/42wim/matterircd"
   },
@@ -11947,7 +11947,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2001+g7437121ea3-0",
+    "Version": "0.13.0~dev-2009+g6332ba64fe-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13825,7 +13825,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "26.2.2-2",
+    "Version": "26.3",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -14551,7 +14551,7 @@
   },
   {
     "Package": "rmlint",
-    "Version": "2.10.4",
+    "Version": "2.11.0",
     "Description": "Extremely fast tool to find space waste and duplicate files",
     "Homepage": "https://github.com/sahib/rmlint"
   },
@@ -16327,7 +16327,7 @@
   },
   {
     "Package": "tinymist",
-    "Version": "0.15.10",
+    "Version": "0.15.12",
     "Description": "An integrated language service for Typst",
     "Homepage": "https://myriad-dreamin.github.io/tinymist"
   },
@@ -16807,7 +16807,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.95",
+    "Version": "0.0.96",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17059,7 +17059,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.13.6",
+    "Version": "0.13.7",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

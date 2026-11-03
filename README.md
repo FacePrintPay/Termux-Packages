@@ -132,7 +132,7 @@
 | **await** | 2.11.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awscli** | 2.39.3 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
-| **azure-cli** | 2.91.0 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
+| **azure-cli** | 2.92.0 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **azure-dev-cli** | 1.37.2 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -281,7 +281,7 @@
 | **cloudflared** | 2026.10.7 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 3.0.4 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
-| **clvk** | 0.0.20261020.193740 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20261102.231234 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.4.5 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.4.5 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -558,7 +558,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.2 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.5.1 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.5.2 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0-1 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:12.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -872,7 +872,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2985 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2994 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.6 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.6 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1797,7 +1797,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-3 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.53.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.53.2 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lwjgl2** | 2.9.3 | Lightweight Java Game Library 2 (LWJGL 2) | https://legacy.lwjgl.org/ |
 | **lwjgl3** | 3.4.3-1 | Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers | https://www.lwjgl.org/ |
@@ -1840,7 +1840,7 @@
 | **mathomatic** | 16.0.5-7 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
 | **matplotlib** | 3.11.2-2 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-5 | A simple chat bridge | https://github.com/42wim/matterbridge |
-| **matterircd** | 0.33.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
+| **matterircd** | 0.34.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **maturin** | 1.16.0 | Build and publish Rust crates (pyo3, cffi, uniffi bindings) as Python packages | https://maturin.rs/ |
 | **mautrix-whatsapp** | 26.10-1 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
@@ -2003,7 +2003,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.6 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-2001+g7437121ea3-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-2009+g6332ba64fe-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2316,7 +2316,7 @@
 | **python-onnxruntime** | 1.31.1 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pandas** | 3.1.0 | Powerful Python data analysis toolkit | https://pandas.pydata.org/ |
 | **python-pillow** | 13.0.0 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 26.2.2-2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 26.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pipcl** | 13 | Python packaging operations for use by python-mupdf and python-pymupdf | https://github.com/ArtifexSoftware/pipcl |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
 | **python-pyarrow** | 26.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
@@ -2437,7 +2437,7 @@
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.9.1-2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.48 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
-| **rmlint** | 2.10.4 | Extremely fast tool to find space waste and duplicate files | https://github.com/sahib/rmlint |
+| **rmlint** | 2.11.0 | Extremely fast tool to find space waste and duplicate files | https://github.com/sahib/rmlint |
 | **rmpc** | 0.11.0 | A configurable TUI MPD client with album art support | https://mierak.github.io/rmpc/ |
 | **rmw** | 0.10.0 | A command-line recycle bin utility (ReMove to Waste) | https://theimpossibleastronaut.com/rmw-website/ |
 | **rnr** | 0.5.1 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
@@ -2733,7 +2733,7 @@
 | **tinyfugue** | 5.0b8-4 | Flexible, screen-oriented MUD client, for use with any type of MUD | https://tinyfugue.sourceforge.net/ |
 | **tinygo** | 0.44.0 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
 | **tinygo-common** | 0.44.0 | TinyGo common files | https://tinygo.org |
-| **tinymist** | 0.15.10 | An integrated language service for Typst | https://myriad-dreamin.github.io/tinymist |
+| **tinymist** | 0.15.12 | An integrated language service for Typst | https://myriad-dreamin.github.io/tinymist |
 | **tinyproxy** | 1.11.3 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
 | **tinysparql** | 3.12.0 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
@@ -2813,7 +2813,7 @@
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.11.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
-| **ty** | 0.0.95 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.96 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2855,7 +2855,7 @@
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uutils-coreutils** | 0.12.0 | Cross-platform Rust rewrite of the GNU coreutils | https://uutils.org/ |
-| **uv** | 0.13.6 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.13.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0-1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
