@@ -290,7 +290,7 @@
  composer  2.11.1  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
- cookcli  0.39.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
+ cookcli  0.40.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.12  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-7  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
@@ -544,7 +544,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.2  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.5.2  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.5.3  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0-1  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:12.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -2791,7 +2791,7 @@
  tuicr  0.28.0  A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard  https://github.com/agavra/tuicr 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
  turbo  2.10.0  High-performance build system for JS/TS  https://turborepo.dev/ 
- turbopack  16.4.4  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
+ turbopack  16.4.5  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
  tut  2.0.1-4  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-13  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
  tvheadend-data  4.2.8-13  Platform-independent data for tvheadend  https://tvheadend.org/ 

@@ -1753,7 +1753,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.39.0",
+    "Version": "0.40.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.5.2",
+    "Version": "0.5.3",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -16759,7 +16759,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.4.4",
+    "Version": "16.4.5",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },

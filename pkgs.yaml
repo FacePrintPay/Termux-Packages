@@ -1167,7 +1167,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.39.0
+  Version: 0.40.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2183,7 +2183,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.5.2
+  Version: 0.5.3
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -11171,7 +11171,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.4.4
+  Version: 16.4.5
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
