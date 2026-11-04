@@ -108,7 +108,7 @@
 | **aspnetcore-targeting-pack-8.0** | 8.0.32 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.21 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
-| **astyle** | 3.6.20 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
+| **astyle** | 3.6.21 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
 | **asymptote** | 3.15 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.62.1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
@@ -527,7 +527,7 @@
 | **fcgiwrap** | 1.1.0+g99c942c | A simple server for running CGI applications over FastCGI | https://github.com/gnosek/fcgiwrap |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.2 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
-| **fd** | 10.5.0 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
+| **fd** | 10.5.1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.42.4 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.9 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2-2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
@@ -1280,7 +1280,7 @@
 | **liblrdf** | 0.6.1-2 | A library to make it easy to manipulate RDF files describing LADSPA plugins | https://github.com/swh/LRDF |
 | **liblrdf-static** | 0.6.1-2 | Static libraries for liblrdf | https://github.com/swh/LRDF |
 | **libltdl** | 2.6.2 | Library for dlopening libraries | https://www.gnu.org/software/libtool/ |
-| **liblz4** | 1.10.0-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
+| **liblz4** | 1.11.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.8.4 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.8.4 | Static libraries for liblzma | https://tukaani.org/xz/ |
 | **liblzo** | 2.10-5 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
@@ -1813,7 +1813,7 @@
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.3 | The text web browser | http://lynx.browser.org/ |
 | **lyrebird** | 0.9.0-1 | A pluggable transport plugin for Tor | https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports |
-| **lz4** | 1.10.0-1 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
+| **lz4** | 1.11.0 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.26 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
 | **lzlib** | 1.16 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
 | **lzlib-static** | 1.16 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
@@ -2813,7 +2813,7 @@
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.11.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
-| **ty** | 0.0.96 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.97 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2994,7 +2994,7 @@
 | **yazi** | 26.9.1-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.70 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.10.6-1 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.7 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.54.1-1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |

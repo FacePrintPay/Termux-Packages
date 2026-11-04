@@ -577,7 +577,7 @@
   },
   {
     "Package": "astyle",
-    "Version": "3.6.20",
+    "Version": "3.6.21",
     "Description": "Source code formatter for C-like programming languages",
     "Homepage": "https://astyle.sourceforge.net/"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.5.0",
+    "Version": "10.5.1",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -7609,7 +7609,7 @@
   },
   {
     "Package": "liblz4",
-    "Version": "1.10.0-1",
+    "Version": "1.11.0",
     "Description": "Fast LZ compression algorithm library",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -10807,7 +10807,7 @@
   },
   {
     "Package": "lz4",
-    "Version": "1.10.0-1",
+    "Version": "1.11.0",
     "Description": "Fast LZ compression algorithm tool",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -16807,7 +16807,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.96",
+    "Version": "0.0.97",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17893,7 +17893,7 @@
   },
   {
     "Package": "youtubedr",
-    "Version": "2.10.6-1",
+    "Version": "2.10.7",
     "Description": "Download youtube video in Golang",
     "Homepage": "https://github.com/kkdai/youtube"
   },

@@ -383,7 +383,7 @@
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: astyle
-  Version: 3.6.20
+  Version: 3.6.21
   Description: Source code formatter for C-like programming languages
   Homepage: https://astyle.sourceforge.net/
 - Package: asymptote
@@ -2059,7 +2059,7 @@
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
-  Version: 10.5.0
+  Version: 10.5.1
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
@@ -5071,7 +5071,7 @@
   Description: Library for dlopening libraries
   Homepage: https://www.gnu.org/software/libtool/
 - Package: liblz4
-  Version: 1.10.0-1
+  Version: 1.11.0
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
@@ -7203,7 +7203,7 @@
   Description: A pluggable transport plugin for Tor
   Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
 - Package: lz4
-  Version: 1.10.0-1
+  Version: 1.11.0
   Description: Fast LZ compression algorithm tool
   Homepage: https://lz4.github.io/lz4/
 - Package: lzip
@@ -11203,7 +11203,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.96
+  Version: 0.0.97
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11927,7 +11927,7 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.6-1
+  Version: 2.10.7
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
