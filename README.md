@@ -350,7 +350,7 @@
 | **dart** | 3.13.7 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.11.2-1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.13.5 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
-| **dasm** | 2.20.17 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
+| **dasm** | 2.20.18 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.12 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
 | **db** | 18.1.40-6 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
@@ -507,7 +507,7 @@
 | **exercism** | 3.5.9-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.4.3 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.60 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.61 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.9 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.5 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -720,7 +720,7 @@
 | **gotify** | 3.1.1-1 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-5 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotorrent** | 0.1.2-2 | TUI for searching torrents | https://github.com/ismaelpadilla/gotorrent |
-| **gotty** | 1.10.0-1 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
+| **gotty** | 1.11.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **govulncheck** | 1.9.0-1 | Reports known vulnerabilities affecting Go code | https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck |
 | **gpac** | 26.07.0-1 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 26.07.0-1 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
@@ -1909,7 +1909,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.11.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.11.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4-1 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2004,7 +2004,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.6 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-2021+g1332ed9027-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-2027+g893d90fced-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2321,7 +2321,7 @@
 | **python-pipcl** | 13 | Python packaging operations for use by python-mupdf and python-pymupdf | https://github.com/ArtifexSoftware/pipcl |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
 | **python-pyarrow** | 26.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
-| **python-pycryptodomex** | 3.24.1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
+| **python-pycryptodomex** | 3.24.2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pymupdf** | 1.28.2-3 | Python bindings for MuPDF's rendering library | https://github.com/pymupdf/PyMuPDF |
 | **python-pynacl** | 1.6.2 | Python binding to the Networking and Cryptography (NaCl) library | https://github.com/pyca/pynacl |
 | **python-pynvim** | 0.6.0-3 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2814,7 +2814,7 @@
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.11.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
-| **ty** | 0.0.97 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.98 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |

@@ -2029,7 +2029,7 @@
   },
   {
     "Package": "dasm",
-    "Version": "2.20.17",
+    "Version": "2.20.18",
     "Description": "Macro assembler with support for several 8-bit microprocessors",
     "Homepage": "https://dasm-dillon.sourceforge.io/"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.60",
+    "Version": "13.61",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4249,7 +4249,7 @@
   },
   {
     "Package": "gotty",
-    "Version": "1.10.0-1",
+    "Version": "1.11.0",
     "Description": "Share your terminal as a web application",
     "Homepage": "https://github.com/sorenisanerd/gotty"
   },
@@ -11383,7 +11383,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.11.1",
+    "Version": "2026.11.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2021+g1332ed9027-0",
+    "Version": "0.13.0~dev-2027+g893d90fced-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "Package": "python-pycryptodomex",
-    "Version": "3.24.1",
+    "Version": "3.24.2",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
   },
@@ -16813,7 +16813,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.97",
+    "Version": "0.0.98",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
