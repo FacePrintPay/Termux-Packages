@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.39.3",
+    "Version": "2.39.4",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1171,13 +1171,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2026.10.20-1",
+    "Version": "1:2026.11.05",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2026.10.20-1",
+    "Version": "1:2026.11.05",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.8",
+    "Version": "2.11.9",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -1843,7 +1843,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.6.3",
+    "Version": "1:11.6.4",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.5.3",
+    "Version": "0.5.4",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4543,19 +4543,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "15.0.0",
+    "Version": "15.1.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "15.0.0",
+    "Version": "15.1.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "15.0.0",
+    "Version": "15.1.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "Package": "hstr",
-    "Version": "3.2",
+    "Version": "3.3",
     "Description": "Shell history suggest box for bash and zsh",
     "Homepage": "https://github.com/dvorka/hstr"
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.8",
+    "Version": "3.0.9",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -8197,7 +8197,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.132",
+    "Version": "3.133",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10711,7 +10711,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.53.2",
+    "Version": "0.53.3",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10801,7 +10801,7 @@
   },
   {
     "Package": "lyrebird",
-    "Version": "0.9.0-1",
+    "Version": "0.10.0",
     "Description": "A pluggable transport plugin for Tor",
     "Homepage": "https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports"
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.11.0",
+    "Version": "2026.11.1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11947,7 +11947,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2012+gb4d549f439-0",
+    "Version": "0.13.0~dev-2021+g1332ed9027-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12163,7 +12163,7 @@
   },
   {
     "Package": "npm",
-    "Version": "12.2.1",
+    "Version": "12.2.2",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -12193,7 +12193,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.132",
+    "Version": "3.133",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -13291,7 +13291,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.17.0",
+    "Version": "12.18.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -13651,7 +13651,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -13663,7 +13663,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.14.8",
+    "Version": "3.14.10",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -13723,7 +13723,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.14.8",
+    "Version": "3.14.10",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -13891,7 +13891,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.7.3",
+    "Version": "10.0.0",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -13915,7 +13915,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.14.8",
+    "Version": "3.14.10",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -13927,7 +13927,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.14.8",
+    "Version": "3.14.10",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },

@@ -116,7 +116,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.11.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.39.3  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.39.4  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  azure-cli  2.92.0  Microsoft's command-line tool for managing Azure cloud resources  https://learn.microsoft.com/en-us/cli/azure/ 
  azure-dev-cli  1.37.2  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
@@ -193,13 +193,13 @@
  c-ares  1.34.9  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-toxcore  0.2.23  Backend library for the Tox protocol  https://tox.chat 
  c-toxcore-static  0.2.23  Static libraries for c-toxcore  https://tox.chat 
- ca-certificates  1:2026.10.20-1  Common CA certificates  https://curl.se/docs/caextract.html 
- ca-certificates-java  1:2026.10.20-1  Common CA certificates (java keystore format)  https://curl.se/docs/caextract.html 
+ ca-certificates  1:2026.11.05  Common CA certificates  https://curl.se/docs/caextract.html 
+ ca-certificates-java  1:2026.11.05  Common CA certificates (java keystore format)  https://curl.se/docs/caextract.html 
  cabal-install  3.16.1.0-1  The command-line interface for Haskell-Cabal and Hackage  https://www.haskell.org/cabal/ 
  cabextract  1.11-1  A program to extract Microsoft cabinet (.CAB) files  https://www.cabextract.org.uk/ 
  cabin  0.18.0  A package manager and build system for C/C++  https://cabinpkg.com/ 
  cadaver  0.28  A command-line WebDAV client for Unix  https://notroj.github.io/cadaver/ 
- caddy  2.11.8  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
+ caddy  2.11.9  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
  calc  2.17.0.2-1  Arbitrary precision console calculator  http://www.isthe.com/chongo/tech/comp/calc/ 
  calcurse  4.8.2-2  calcurse is a calendar and scheduling application for the command line  https://calcurse.org/ 
  calcurse-caldav  4.8.2-2  Sync calcurse with remote caldav calendar  https://calcurse.org/ 
@@ -305,7 +305,7 @@
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.34.1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:11.6.3  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:11.6.4  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-4  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.17.0-1  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-5  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist/ 
@@ -544,7 +544,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.2  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.5.3  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.5.4  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0-1  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:12.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -755,9 +755,9 @@
  gzip  1.15  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  half  2.2.1  C++ header-only library for IEEE 754 half-precision floating-point format  https://half.sourceforge.net/ 
  haproxy  3.4.7  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  15.0.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  15.0.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  15.0.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  15.1.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  15.1.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  15.1.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harper  3.0.0  Offline, privacy-first grammar checker. Fast, open-source, Rust-powered  https://writewithharper.com/ 
  hash-slinger  3.6  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
@@ -785,7 +785,7 @@
  hnterm  1.0.5-2  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
  hollywood  1.26  Fill your console with Hollywood melodrama technobabble  https://launchpad.net/hollywood 
  hors  0.8.2-3  Instant coding answers via the command line (howdoi in rust)  https://github.com/WindSoilder/hors 
- hstr  3.2  Shell history suggest box for bash and zsh  https://github.com/dvorka/hstr 
+ hstr  3.3  Shell history suggest box for bash and zsh  https://github.com/dvorka/hstr 
  html-xml-utils  8.8  A number of simple utilities for manipulating HTML and XML files  https://www.w3.org/Tools/HTML-XML-utils/ 
  html2text  1:2.4.0  Utility that converts HTML documents into plain text  http://www.mbayer.de/html2text/ 
  htop  3.5.3  Interactive process viewer for Linux  https://htop.dev/ 
@@ -904,7 +904,7 @@
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kew  4.4.2  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
- keychain  3.0.8  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
+ keychain  3.0.9  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.8.2  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
@@ -1364,7 +1364,7 @@
  libnpth-static  1.8  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.40  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.40  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.132  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.133  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.6.0  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.6.0  Static libraries for libntl  https://libntl.org 
  libnumbertext  1.0.11-1  Number to number name and money text conversion library  https://github.com/Numbertext/libnumbertext 
@@ -1783,7 +1783,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-3  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.53.2  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.53.3  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lwjgl2  2.9.3  Lightweight Java Game Library 2 (LWJGL 2)  https://legacy.lwjgl.org/ 
  lwjgl3  3.4.3-1  Lightweight Java Game Library 3 (LWJGL 3), all versions required by launchers  https://www.lwjgl.org/ 
@@ -1798,7 +1798,7 @@
  lwjgl3-3.4.3  3.4.3-1  Lightweight Java Game Library 3.4.3 (LWJGL 3)  https://www.lwjgl.org/ 
  lychee  0.24.2  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.3  The text web browser  http://lynx.browser.org/ 
- lyrebird  0.9.0-1  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
+ lyrebird  0.10.0  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
  lz4  1.11.0  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
  lzip  1.26  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
  lzlib  1.16  A library providing in-memory LZMA compression and decompression functions  http://www.nongnu.org/lzip/lzlib.html 
@@ -1894,7 +1894,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.11.0  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.11.1  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkcert  1.4.4-1  A simple zero-config tool to make locally trusted development certificates  https://github.com/FiloSottile/mkcert 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
@@ -1989,7 +1989,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.6  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-2012+gb4d549f439-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-2021+g1332ed9027-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2025,12 +2025,12 @@
  notcurses-data  3.0.17-3  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.17-3  Tools and demos for notcurses  https://notcurses.com/ 
  notmuch  0.40-1  Thread-based email index, search and tagging system  https://notmuchmail.org 
- npm  12.2.1  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
+ npm  12.2.2  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
  npush  0.7-2  Curses-based logic game similar to Sokoban and Boulder Dash  https://npush.sourceforge.net/ 
  nsis  3.13  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.13  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.132  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.133  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.1  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  numbat  1.24.0  A statically typed programming language for scientific computations with first class support for physical dimensions and units  https://numbat.dev/ 
  nushell  0.116.1  A new type of shell operating on structured data  https://www.nushell.sh 
@@ -2213,7 +2213,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.17.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.18.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.6  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2273,9 +2273,9 @@
  pypy3  8.0.0  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  8.0.0  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  8.0.0  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  1.4.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  1.4.1  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.2.0  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
- python  3.14.8  Python 3 programming language intended to enable clear programs  https://python.org/ 
+ python  3.14.10  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.54.1.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
  python-apt  3.1.0-2  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  5.0.0-3  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
@@ -2285,7 +2285,7 @@
  python-crc32c  2.9.post0+really2.8  Python package implementing the crc32c checksum algorithm in hardware and software  https://github.com/ICRAR/crc32c 
  python-cryptography  50.0.2  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ctranslate2  4.8.5  Python bindings for CTranslate2  https://github.com/OpenNMT/CTranslate2 
- python-ensurepip-wheels  3.14.8  Wheels for Python ensurepip  https://python.org/ 
+ python-ensurepip-wheels  3.14.10  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.5.6  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.85.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-jellyfish  1.3.0  Library for approximate and phonetic matching of strings  https://codeberg.org/jpt/jellyfish 
@@ -2313,13 +2313,13 @@
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
  python-rpds-py  2026.9.1  Python bindings to Rust's persistent data structures (rpds)  https://github.com/crate-py/rpds 
  python-ruff  0.17.3  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
- python-sabyenc3  9.7.3  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
+ python-sabyenc3  10.0.0  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.1-1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-soxr  1.1.0-2  Fast and high quality sample-rate conversion library for Python  https://github.com/dofuuz/python-soxr 
- python-static  3.14.8  Static libraries for python  https://python.org/ 
+ python-static  3.14.10  Static libraries for python  https://python.org/ 
  python-tflite-runtime  2.21.0-1  TensorFlow Lite Python bindings  https://www.tensorflow.org/lite 
- python-tkinter  3.14.8  Tkinter support for Python 3  https://python.org/ 
+ python-tkinter  3.14.10  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-8  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
  python-torch  2.15.0  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
  python-torch-static  2.15.0  Static libraries for python-torch  https://pytorch.org/ 
