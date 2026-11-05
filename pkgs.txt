@@ -58,11 +58,11 @@
  apr-static  1.7.6-2  Static libraries for apr  https://apr.apache.org/ 
  apr-util  1.6.5  Apache Portable Runtime Utility Library  https://apr.apache.org/ 
  apr-util-static  1.6.5  Static libraries for apr-util  https://apr.apache.org/ 
- apt  2.8.1-2  Front-end for the dpkg package manager  https://packages.debian.org/apt 
+ apt  2.8.4  Front-end for the dpkg package manager  https://packages.debian.org/apt 
  apt-file  3.4  search for files within packages  https://wiki.debian.org/apt-file 
- apt-ftparchive  2.8.1-2  apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source  https://packages.debian.org/apt 
+ apt-ftparchive  2.8.4  apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source  https://packages.debian.org/apt 
  apt-show-versions  0.22.16  Lists available package versions with distribution  https://salsa.debian.org/debian/apt-show-versions 
- apt-transport-tor  2.8.1-2  APT transport for anonymous package downloads via Tor  https://packages.debian.org/apt 
+ apt-transport-tor  2.8.4  APT transport for anonymous package downloads via Tor  https://packages.debian.org/apt 
  aptly  1.6.3-1  A Swiss Army knife for Debian repository management  https://www.aptly.info 
  argon2  20190702-2  A password-hashing function (reference C implementation)  https://github.com/P-H-C/phc-winner-argon2 
  argon2-static  20190702-2  Static libraries for argon2  https://github.com/P-H-C/phc-winner-argon2 
@@ -146,7 +146,7 @@
  binutils  2.47  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.47  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.6.4  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.6.5  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  32.1  Bitcoin Core  https://bitcoincore.org/ 
@@ -387,7 +387,7 @@
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doctl  2.1.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
+ doctl  2.3.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  doggo  1.4.2-1  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
@@ -568,7 +568,7 @@
  fribidi-static  1.0.18  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frotz  2.55-2  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
- frp  0.71.1-1  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
+ frp  0.72.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
  fselect  0.10.4  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.8-1  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11-2  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
@@ -697,7 +697,7 @@
  gopass  1.17.4-1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.19  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.24.0-1  The official Go language server  https://github.com/golang/tools 
- goreleaser  2.19.0  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
+ goreleaser  2.20.0  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
  goresym  3.4.1-1  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gosec  2.30.0  Golang security checker  https://github.com/securego/gosec 
  gost  3.3.3  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/go-gost/gost 
@@ -1724,12 +1724,12 @@
  lit  3.9.0  Toolkit for developing, sharing, and running luvit/lua programs and libraries.  https://luvit.io 
  litecli  1.17.1-2  CLI for SQLite databases with auto-completion and syntax highlighting  https://litecli.com 
  litespeedtest  0.15.0-4  A simple tool for batch test ss/ssr/v2ray/trojan servers  https://github.com/xxf098/LiteSpeedTest 
- littlecms  2.19.1  Color management library  http://www.littlecms.com/ 
- littlecms-static  2.19.1  Static libraries for littlecms  http://www.littlecms.com/ 
- littlecms-utils  2.19.1  Color management utilities  http://www.littlecms.com/ 
- llama-cpp  0.8.0-1  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-opencl  0.8.0-1  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-vulkan  0.8.0-1  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ littlecms  2.20  Color management library  http://www.littlecms.com/ 
+ littlecms-static  2.20  Static libraries for littlecms  http://www.littlecms.com/ 
+ littlecms-utils  2.20  Color management utilities  http://www.littlecms.com/ 
+ llama-cpp  0.9.0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-opencl  0.9.0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-vulkan  0.9.0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
  llbuild  6.4.0  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
  lld  21.1.8-3  LLVM-based linker  https://clang.llvm.org/ 
  lldb  21.1.8-3  LLVM-based debugger  https://clang.llvm.org/ 
@@ -2300,7 +2300,7 @@
  python-numpy  2.5.4  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  2.5.4  Static libraries for python-numpy  https://numpy.org/ 
  python-onnxruntime  1.31.1  Cross-platform, high performance ML inferencing and training accelerator (Python bindings)  https://onnxruntime.ai/ 
- python-pandas  3.1.0  Powerful Python data analysis toolkit  https://pandas.pydata.org/ 
+ python-pandas  3.1.1  Powerful Python data analysis toolkit  https://pandas.pydata.org/ 
  python-pillow  13.0.0  Python Imaging Library  https://python-pillow.org/ 
  python-pip  26.3  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pipcl  13  Python packaging operations for use by python-mupdf and python-pymupdf  https://github.com/ArtifexSoftware/pipcl 
@@ -2733,7 +2733,7 @@
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  tomlplusplus  3.4.0  Header-only TOML config file parser and serializer for C++ 17  https://marzer.github.io/tomlplusplus/ 
  topgrade  17.15.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.9.15  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.9.16  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.7  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 

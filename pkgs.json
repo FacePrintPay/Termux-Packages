@@ -361,7 +361,7 @@
   },
   {
     "Package": "apt",
-    "Version": "2.8.1-2",
+    "Version": "2.8.4",
     "Description": "Front-end for the dpkg package manager",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -373,7 +373,7 @@
   },
   {
     "Package": "apt-ftparchive",
-    "Version": "2.8.1-2",
+    "Version": "2.8.4",
     "Description": "apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -385,7 +385,7 @@
   },
   {
     "Package": "apt-transport-tor",
-    "Version": "2.8.1-2",
+    "Version": "2.8.4",
     "Description": "APT transport for anonymous package downloads via Tor",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -889,7 +889,7 @@
   },
   {
     "Package": "biome2",
-    "Version": "2.6.4",
+    "Version": "2.6.5",
     "Description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
     "Homepage": "https://biomejs.dev/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "2.1.0",
+    "Version": "2.3.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3421,7 +3421,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.71.1-1",
+    "Version": "0.72.0",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -4195,7 +4195,7 @@
   },
   {
     "Package": "goreleaser",
-    "Version": "2.19.0",
+    "Version": "2.20.0",
     "Description": "Deliver Go binaries as fast and easily as possible",
     "Homepage": "https://goreleaser.com"
   },
@@ -10357,37 +10357,37 @@
   },
   {
     "Package": "littlecms",
-    "Version": "2.19.1",
+    "Version": "2.20",
     "Description": "Color management library",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-static",
-    "Version": "2.19.1",
+    "Version": "2.20",
     "Description": "Static libraries for littlecms",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-utils",
-    "Version": "2.19.1",
+    "Version": "2.20",
     "Description": "Color management utilities",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.8.0-1",
+    "Version": "0.9.0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.8.0-1",
+    "Version": "0.9.0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.8.0-1",
+    "Version": "0.9.0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -13813,7 +13813,7 @@
   },
   {
     "Package": "python-pandas",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "Powerful Python data analysis toolkit",
     "Homepage": "https://pandas.pydata.org/"
   },
@@ -16411,7 +16411,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.15",
+    "Version": "0.4.9.16",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
