@@ -1109,6 +1109,7 @@
 | **libdwarf-static** | 2.3.3 | Static libraries for libdwarf | https://www.prevanders.net/dwarf.html |
 | **libe-book** | 0.1.4 | Library for import of reflowable e-book formats. | https://sourceforge.net/projects/libebook/ |
 | **libe-book-static** | 0.1.4 | Static libraries for libe-book | https://sourceforge.net/projects/libebook/ |
+| **libeatmydata** | 131 | libeatmydata - because fsync() should be a no-op | https://www.flamingspork.com/projects/libeatmydata/ |
 | **libebml** | 1.4.7 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-4 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20260512-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
@@ -1310,10 +1311,10 @@
 | **libmhash-static** | 0.9.9.9-4 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
 | **libmicrohttpd** | 1.0.10 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
 | **libmicrohttpd-static** | 1.0.10 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
-| **libminizip** | 1.3.2-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip** | 1.4 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.2.2 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-ng-static** | 4.2.2 | Static libraries for libminizip-ng | https://github.com/zlib-ng/minizip-ng |
-| **libminizip-static** | 1.3.2-1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip-static** | 1.4 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
 | **libmnl** | 1.0.5-1 | a minimalistic user-space library oriented to Netlink developers | https://www.netfilter.org/projects/libmnl/ |
 | **libmnl-static** | 1.0.5-1 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461-1 | The ModPlug mod file playing library | https://modplug-xmms.sourceforge.net/ |
@@ -1561,8 +1562,8 @@
 | **libtalloc-static** | 2.5.0 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
 | **libtasn1** | 4.21.0 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
 | **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
-| **libtatsu** | 1.0.5-2 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
-| **libtatsu-static** | 1.0.5-2 | Static libraries for libtatsu | https://libimobiledevice.org/ |
+| **libtatsu** | 1.1.0 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
+| **libtatsu-static** | 1.1.0 | Static libraries for libtatsu | https://libimobiledevice.org/ |
 | **libtbb** | 2023.2.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
 | **libtd** | 1.8.69 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.69 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
@@ -1687,7 +1688,7 @@
 | **libxft-static** | 2.3.9-1 | Static libraries for libxft | https://xorg.freedesktop.org/ |
 | **libxi** | 1.8.4 | X11 Input extension library | https://xorg.freedesktop.org/ |
 | **libxi-static** | 1.8.4 | Static libraries for libxi | https://xorg.freedesktop.org/ |
-| **libxisf** | 0.2.15 | Library to load and save XISF images | https://nouspiro.space |
+| **libxisf** | 0.2.17 | Library to load and save XISF images | https://nouspiro.space |
 | **libxls** | 1.6.4 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.4 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxls2csv** | 1.6.4 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
@@ -1824,7 +1825,7 @@
 | **mailpit** | 1.33.0 | An email and SMTP testing tool with API for developers | https://mailpit.axllent.org |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
 | **mailutils** | 3.21 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
-| **maintainerr** | 3.31.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
+| **maintainerr** | 3.32.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **mandoc** | 1.14.6-8 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
@@ -2622,7 +2623,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.166.0 | Storj DCS Uplink CLI | https://github.com/storj/storj |
+| **storj-uplink** | 1.166.1 | Storj DCS Uplink CLI | https://github.com/storj/storj |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.3 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -3013,8 +3014,8 @@
 | **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.7-1 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
-| **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
-| **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
+| **zlib** | 1.4 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
+| **zlib-static** | 1.4 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.17.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.10.3 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.23.6 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
