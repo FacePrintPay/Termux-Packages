@@ -203,7 +203,7 @@
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
-  Version: 1:2.4.69
+  Version: 1:2.4.70
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
@@ -591,7 +591,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.6.5
+  Version: 2.6.6
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -2551,7 +2551,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
-  Version: 24.1.0-1
+  Version: 24.1.1
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
@@ -7587,7 +7587,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.11.2-1
+  Version: 2026.11.3
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8491,7 +8491,7 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.91.0
+  Version: 1.92.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxipng
@@ -8499,7 +8499,7 @@
   Description: Multithreaded PNG optimizer written in Rust
   Homepage: https://github.com/oxipng/oxipng
 - Package: oxlint
-  Version: 1.91.0
+  Version: 1.92.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -9547,7 +9547,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.75.2-1
+  Version: 1.76.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -11207,7 +11207,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.98
+  Version: 0.0.99
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
