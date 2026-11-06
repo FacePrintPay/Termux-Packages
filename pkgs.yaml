@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.39.4
+  Version: 2.39.5
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -527,7 +527,7 @@
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bazel
-  Version: 9.3.1-1
+  Version: 9.3.2
   Description: Correct, reproducible, and fast builds for everyone
   Homepage: https://bazel.build/
 - Package: bc
@@ -1111,7 +1111,7 @@
   Description: The post-quantum cryptography tool
   Homepage: http://e-x-a.org/codecrypt/
 - Package: codex
-  Version: 0.166.0
+  Version: 0.167.0
   Description: Lightweight coding agent that runs in your terminal
   Homepage: https://github.com/openai/codex
 - Package: codon
@@ -2015,7 +2015,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.70.0
+  Version: 2.71.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2259,7 +2259,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.5.7
+  Version: 0.5.8
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -3279,7 +3279,7 @@
   Description: Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops
   Homepage: http://tango.freedesktop.org/
 - Package: iconv
-  Version: "1.19"
+  Version: 1.19.1
   Description: Utility converting between different character encodings
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: icoutils
@@ -4795,11 +4795,11 @@
   Description: X11 Inter-Client Exchange library
   Homepage: https://xorg.freedesktop.org/
 - Package: libiconv
-  Version: "1.19"
+  Version: 1.19.1
   Description: An implementation of iconv()
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libiconv-static
-  Version: "1.19"
+  Version: 1.19.1
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
@@ -5691,11 +5691,11 @@
   Description: Reusable library for GPU-accelerated video/image rendering
   Homepage: http://libplacebo.org/
 - Package: libplist
-  Version: 2.8.0
+  Version: 2.8.1
   Description: A small portable C library to handle Apple Property List files in binary or XML format
   Homepage: https://libimobiledevice.org
 - Package: libplist-static
-  Version: 2.8.0
+  Version: 2.8.1
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
@@ -7587,7 +7587,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.11.2
+  Version: 2026.11.2-1
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7839,7 +7839,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.18.2-armbuntu-0
+  Version: 0.18.3
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
@@ -7967,7 +7967,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-2028+gaef67ce76f-0
+  Version: 0.13.0~dev-2032+g254bec339c-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8223,11 +8223,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.40.14
+  Version: 0.40.15
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.40.14
+  Version: 0.40.15
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -8675,7 +8675,7 @@
   Description: Simplistic interactive filtering tool
   Homepage: https://github.com/peco/peco
 - Package: perl
-  Version: 5.44.0
+  Version: 5.44.0-1
   Description: Capable, feature-rich programming language
   Homepage: https://www.perl.org/
 - Package: perl-rename
@@ -8691,7 +8691,7 @@
   Description: Portable Forth in C
   Homepage: https://www.softsynth.com/pforth/
 - Package: pgadmin4
-  Version: "9.18"
+  Version: "9.19"
   Description: Feature-rich web-based administration and development platform for PostgreSQL
   Homepage: https://www.pgadmin.org
 - Package: pgcli
@@ -9727,7 +9727,7 @@
   Description: A very fun adventure game for robots and humans
   Homepage: https://github.com/noncombatant/robotfindskitten
 - Package: rolldown
-  Version: 1.2.16
+  Version: 1.3.0
   Description: Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API
   Homepage: https://rolldown.rs/
 - Package: root-repo
@@ -10795,7 +10795,7 @@
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
-  Version: 3.2.4
+  Version: 3.2.5
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
@@ -11539,7 +11539,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.367
+  Version: 1.4.368
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -11555,15 +11555,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.367
+  Version: 1.4.368
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.367
+  Version: 1.4.368
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.367
+  Version: 1.4.368
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -11935,7 +11935,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.54.1-1
+  Version: 4.54.2
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
