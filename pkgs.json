@@ -175,7 +175,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.12-1",
+    "Version": "1.17.13",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -577,7 +577,7 @@
   },
   {
     "Package": "astyle",
-    "Version": "3.6.21",
+    "Version": "3.6.22",
     "Description": "Source code formatter for C-like programming languages",
     "Homepage": "https://astyle.sourceforge.net/"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.37.2",
+    "Version": "1.37.3",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.5.4",
+    "Version": "0.5.5",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3385,7 +3385,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "3.6.0",
+    "Version": "3.7.0",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.9",
+    "Version": "3.0.10",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2027+g893d90fced-0",
+    "Version": "0.13.0~dev-2028+gaef67ce76f-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12043,7 +12043,7 @@
   },
   {
     "Package": "newsboat",
-    "Version": "2.45",
+    "Version": "2.45.1",
     "Description": "RSS/Atom feed reader for the text console",
     "Homepage": "https://newsboat.org/"
   },
@@ -13891,7 +13891,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.17.3",
+    "Version": "0.17.4",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14233,7 +14233,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.2.4",
+    "Version": "6.2.6",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -14719,7 +14719,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.17.3",
+    "Version": "0.17.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -17227,7 +17227,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.1250",
+    "Version": "9.2.1300",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17383,7 +17383,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.28.0",
+    "Version": "2.28.4",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -17809,7 +17809,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.1250",
+    "Version": "9.2.1300",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },

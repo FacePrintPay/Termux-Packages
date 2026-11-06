@@ -115,7 +115,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.12-1
+  Version: 1.17.13
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -383,7 +383,7 @@
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: astyle
-  Version: 3.6.21
+  Version: 3.6.22
   Description: Source code formatter for C-like programming languages
   Homepage: https://astyle.sourceforge.net/
 - Package: asymptote
@@ -483,7 +483,7 @@
   Description: Microsofts command-line tool for managing Azure cloud resources
   Homepage: https://learn.microsoft.com/en-us/cli/azure/
 - Package: azure-dev-cli
-  Version: 1.37.2
+  Version: 1.37.3
   Description: Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)
   Homepage: https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/
 - Package: b3sum
@@ -2183,7 +2183,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.5.4
+  Version: 0.5.5
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2255,7 +2255,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.6.0
+  Version: 3.7.0
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -3623,7 +3623,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 3.0.9
+  Version: 3.0.10
   Description: Keychain manager for ssh-agent and gpg-agent
   Homepage: https://kernel-seeds.org/projects/keychain/
 - Package: kibi
@@ -7967,7 +7967,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-2027+g893d90fced-0
+  Version: 0.13.0~dev-2028+gaef67ce76f-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8027,7 +8027,7 @@
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
-  Version: "2.45"
+  Version: 2.45.1
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: newsraft
@@ -9259,7 +9259,7 @@
   Description: Python bindings to Rusts persistent data structures (rpds)
   Homepage: https://github.com/crate-py/rpds
 - Package: python-ruff
-  Version: 0.17.3
+  Version: 0.17.4
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9487,7 +9487,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 6.2.4
+  Version: 6.2.6
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: radarr
@@ -9811,7 +9811,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.17.3
+  Version: 0.17.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -11483,7 +11483,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.1250
+  Version: 9.2.1300
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11587,7 +11587,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.28.0
+  Version: 2.28.4
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -11871,7 +11871,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.1250
+  Version: 9.2.1300
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
