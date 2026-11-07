@@ -1067,7 +1067,7 @@
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
-  Version: 3.0.4
+  Version: 3.0.5
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clucene
@@ -1167,7 +1167,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.40.0
+  Version: 0.41.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -3451,7 +3451,7 @@
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
-  Version: 1.42.1
+  Version: 1.43.0
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
@@ -4919,11 +4919,11 @@
   Description: Static libraries for libixion
   Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
 - Package: libjanet
-  Version: 1.42.1
+  Version: 1.43.0
   Description: Development library for Janet
   Homepage: https://janet-lang.org
 - Package: libjanet-static
-  Version: 1.42.1
+  Version: 1.43.0
   Description: Static libraries for libjanet
   Homepage: https://janet-lang.org
 - Package: libjansson
@@ -7119,7 +7119,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.745"
+  Version: "0.746"
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -8839,7 +8839,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plocate
-  Version: 1.1.25-1
+  Version: 1.1.25-2
   Description: A much faster locate
   Homepage: https://plocate.sesse.net/
 - Package: plutolang
