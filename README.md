@@ -130,7 +130,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.11.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.39.5 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.39.6 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.92.0 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **azure-dev-cli** | 1.37.3 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
@@ -610,7 +610,7 @@
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 18.1-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.8-1 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
-| **gdu** | 5.38.0-1 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
+| **gdu** | 5.39.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.5.0 | Generic Constraint Development Environment | https://www.gecode.dev/ |
 | **gegl** | 0.4.72-3 | Data flow based image processing framework | https://gegl.org/ |
@@ -750,13 +750,13 @@
 | **gsf-tools** | 1.14.60 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.28.8-1 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.28.8 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-base** | 1.28.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.28.8 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-ugly** | 1.28.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.28.8 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
-| **gstreamer** | 1.28.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
+| **gst-libav** | 1.28.9 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-plugins-bad** | 1.28.9 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-base** | 1.28.9 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.28.9 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-ugly** | 1.28.9 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.28.9 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gstreamer** | 1.28.9 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtrash** | 0.0.6-2 | A featureful trash CLI manager, alternative to rm and trash-cli | https://github.com/umlx5h/gtrash |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -772,7 +772,7 @@
 | **harfbuzz** | 15.1.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 15.1.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 15.1.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harper** | 3.0.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
+| **harper** | 3.1.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.25.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
@@ -1967,7 +1967,7 @@
 | **mutt** | 2.4.3 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **mycli** | 2.30.2 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 26.1.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 26.1.3 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.2.0-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -2004,7 +2004,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.6 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-2032+g254bec339c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-2042+g74f3ce7970-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2129,7 +2129,7 @@
 | **osm2pgsql** | 2.3.1-1 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-4 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.1-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
-| **osslsigncode** | 2.14 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
+| **osslsigncode** | 2.15 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.6 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | https://sr.ht/~nabijaczleweli/ossp |
 | **ossp-uuid-static** | 1.6.6 | Static libraries for ossp-uuid | https://sr.ht/~nabijaczleweli/ossp |
 | **otf-noto-sans-cjk** | 2.004 | Noto Sans CJK fonts for Chinese, Japanese and Korean | https://github.com/notofonts/noto-cjk |
