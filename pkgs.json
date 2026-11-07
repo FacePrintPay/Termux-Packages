@@ -11383,7 +11383,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.11.3",
+    "Version": "2026.11.4",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
