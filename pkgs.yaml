@@ -15,7 +15,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: "26.05"
+  Version: "26.06"
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -1403,7 +1403,7 @@
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
-  Version: 1.2.2-1
+  Version: 1.2.3
   Description: Demystifies and debugs your sed scripts
   Homepage: https://github.com/SoptikHa2/desed
 - Package: deutex
@@ -2059,7 +2059,7 @@
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
-  Version: 10.5.1
+  Version: 10.5.2
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
@@ -2303,7 +2303,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.74.5-1
+  Version: 0.75.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2871,7 +2871,7 @@
   Description: Ping, but with a graph
   Homepage: https://github.com/orf/gping
 - Package: gradle
-  Version: 1:9.8.2
+  Version: 1:9.9.0
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3347,11 +3347,11 @@
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://github.com/crazy-max/innoextract
 - Package: inotify-tools
-  Version: 4.26.270
+  Version: 4.26.272
   Description: Programs providing a simple interface to inotify
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inotify-tools-static
-  Version: 4.26.270
+  Version: 4.26.272
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inshellisense
@@ -10983,7 +10983,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.27.1
+  Version: 0.27.2
   Description: An incremental parsing system for programming tools
   Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-bash

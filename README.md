@@ -16,7 +16,7 @@
 | **2048-c** | 1:1.0.5 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.6.1-1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 26.05 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 26.06 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -363,7 +363,7 @@
 | **debootstrap** | 1.0.145 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **delve** | 1.27.2-1 | A debugger for the Go programming language | https://github.com/go-delve/delve |
 | **deno** | 1:2.9.8 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
-| **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
+| **desed** | 1.2.3 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
 | **dialog** | 1.3-20260721-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
@@ -527,7 +527,7 @@
 | **fcgiwrap** | 1.1.0+g99c942c | A simple server for running CGI applications over FastCGI | https://github.com/gnosek/fcgiwrap |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.2 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
-| **fd** | 10.5.1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
+| **fd** | 10.5.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.42.4 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.9 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2-2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
@@ -588,7 +588,7 @@
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 40.0.1 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.74.5-1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.75.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.86.0-2 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.5 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -730,7 +730,7 @@
 | **gpgmepp** | 2.2.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.24 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.21.0 | Ping, but with a graph | https://github.com/orf/gping |
-| **gradle** | 1:9.8.2 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:9.9.0 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:13.3.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
@@ -849,8 +849,8 @@
 | **inetutils** | 2.8-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-5 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.13.0-1 | A tool to unpack installers created by Inno Setup | https://github.com/crazy-max/innoextract |
-| **inotify-tools** | 4.26.270 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
-| **inotify-tools-static** | 4.26.270 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools** | 4.26.272 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools-static** | 4.26.272 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
 | **inshellisense** | 0.0.4 | IDE style command line auto complete | https://github.com/microsoft/inshellisense |
 | **intltool** | 0.51.0-4 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.41-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
@@ -2758,7 +2758,7 @@
 | **translate-shell** | 0.9.7.1-1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.4 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.27.1 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
+| **tree-sitter** | 0.27.2 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1-2 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
 | **tree-sitter-c** | 0.24.2-1 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-css** | 0.25.0-2 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |

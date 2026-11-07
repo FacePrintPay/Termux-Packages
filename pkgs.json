@@ -25,7 +25,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "26.05",
+    "Version": "26.06",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
@@ -2107,7 +2107,7 @@
   },
   {
     "Package": "desed",
-    "Version": "1.2.2-1",
+    "Version": "1.2.3",
     "Description": "Demystifies and debugs your sed scripts",
     "Homepage": "https://github.com/SoptikHa2/desed"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.5.1",
+    "Version": "10.5.2",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -3457,7 +3457,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.74.5-1",
+    "Version": "0.75.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -4309,7 +4309,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.8.2",
+    "Version": "1:9.9.0",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -5023,13 +5023,13 @@
   },
   {
     "Package": "inotify-tools",
-    "Version": "4.26.270",
+    "Version": "4.26.272",
     "Description": "Programs providing a simple interface to inotify",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
   {
     "Package": "inotify-tools-static",
-    "Version": "4.26.270",
+    "Version": "4.26.272",
     "Description": "Static libraries for inotify-tools",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
@@ -16477,7 +16477,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.27.1",
+    "Version": "0.27.2",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://tree-sitter.github.io/"
   },
