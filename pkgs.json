@@ -1729,7 +1729,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-18",
+    "Version": "3.5.0-19",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2042+g74f3ce7970-0",
+    "Version": "0.13.0~dev-2052+gc868e1ab3d-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
