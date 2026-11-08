@@ -4543,19 +4543,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "15.1.0",
+    "Version": "15.1.0-1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "15.1.0",
+    "Version": "15.1.0-1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "15.1.0",
+    "Version": "15.1.0-1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "78.3",
+    "Version": "79.1",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6163,13 +6163,13 @@
   },
   {
     "Package": "libcdr",
-    "Version": "0.1.9",
+    "Version": "0.1.9-1",
     "Description": "CorelDraw file format importer library for LibreOffice",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
   {
     "Package": "libcdr-static",
-    "Version": "0.1.9",
+    "Version": "0.1.9-1",
     "Description": "Static libraries for libcdr",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
@@ -6571,13 +6571,13 @@
   },
   {
     "Package": "libe-book",
-    "Version": "0.1.4",
+    "Version": "0.1.4-1",
     "Description": "Library for import of reflowable e-book formats.",
     "Homepage": "https://sourceforge.net/projects/libebook/"
   },
   {
     "Package": "libe-book-static",
-    "Version": "0.1.4",
+    "Version": "0.1.4-1",
     "Description": "Static libraries for libe-book",
     "Homepage": "https://sourceforge.net/projects/libebook/"
   },
@@ -6823,13 +6823,13 @@
   },
   {
     "Package": "libfreehand",
-    "Version": "0.1.4",
+    "Version": "0.1.4-1",
     "Description": "a library for import of Aldus/Macromedia/Adobe FreeHand documents",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
   },
   {
     "Package": "libfreehand-static",
-    "Version": "0.1.4",
+    "Version": "0.1.4-1",
     "Description": "Static libraries for libfreehand",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
   },
@@ -7015,7 +7015,7 @@
   },
   {
     "Package": "libgnustep-base",
-    "Version": "1.31.1-5",
+    "Version": "1.31.1-6",
     "Description": "A library of general-purpose, non-graphical Objective C objects",
     "Homepage": "https://www.gnustep.org"
   },
@@ -7183,7 +7183,7 @@
   },
   {
     "Package": "libical",
-    "Version": "4.0.7",
+    "Version": "4.0.7-1",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -7207,13 +7207,13 @@
   },
   {
     "Package": "libicu",
-    "Version": "78.3",
+    "Version": "79.1",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "78.3",
+    "Version": "79.1",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -7453,7 +7453,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "14.2.1-1",
+    "Version": "14.2.1-2",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -7951,13 +7951,13 @@
   },
   {
     "Package": "libmspub",
-    "Version": "0.1.5",
+    "Version": "0.1.5-1",
     "Description": "Microsoft Publisher file format parser library (latest snapshot)",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
   {
     "Package": "libmspub-static",
-    "Version": "0.1.5",
+    "Version": "0.1.5-1",
     "Description": "Static libraries for libmspub",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
@@ -8611,13 +8611,13 @@
   },
   {
     "Package": "libpq",
-    "Version": "18.6",
+    "Version": "18.6-1",
     "Description": "PostgreSQL client library (libpq) without the server",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "libpq-static",
-    "Version": "18.6",
+    "Version": "18.6-1",
     "Description": "Static library for libpq",
     "Homepage": "https://www.postgresql.org"
   },
@@ -8677,25 +8677,25 @@
   },
   {
     "Package": "libqxp",
-    "Version": "0.0.3",
+    "Version": "0.0.3-1",
     "Description": "a library that parses the file format of QuarkXPress documents",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
   },
   {
     "Package": "libqxp-static",
-    "Version": "0.0.3",
+    "Version": "0.0.3-1",
     "Description": "Static libraries for libqxp",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
   },
   {
     "Package": "libraptor2",
-    "Version": "2.0.16-10",
+    "Version": "2.0.16-11",
     "Description": "RDF Syntax Library",
     "Homepage": "https://librdf.org/raptor/"
   },
   {
     "Package": "libraptor2-static",
-    "Version": "2.0.16-10",
+    "Version": "2.0.16-11",
     "Description": "Static libraries for libraptor2",
     "Homepage": "https://librdf.org/raptor/"
   },
@@ -9709,13 +9709,13 @@
   },
   {
     "Package": "libvisio",
-    "Version": "0.1.11",
+    "Version": "0.1.11-1",
     "Description": "Library providing ability to interpret and import visio diagrams",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libvisio"
   },
   {
     "Package": "libvisio-static",
-    "Version": "0.1.11",
+    "Version": "0.1.11-1",
     "Description": "Static libraries for libvisio",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libvisio"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.8.2-1",
+    "Version": "9.8.2-2",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -10279,13 +10279,13 @@
   },
   {
     "Package": "libzmf",
-    "Version": "0.0.2-5",
+    "Version": "0.0.2-6",
     "Description": "a library for import of Zoner drawing and bitmap files",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libzmf"
   },
   {
     "Package": "libzmf-static",
-    "Version": "0.0.2-5",
+    "Version": "0.0.2-6",
     "Description": "Static libraries for libzmf",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libzmf"
   },
@@ -11203,7 +11203,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "2.7.0",
+    "Version": "2.7.0-1",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -11587,7 +11587,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.18",
+    "Version": "0.24.18-1",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -11635,7 +11635,7 @@
   },
   {
     "Package": "msedit",
-    "Version": "2.0.0-1",
+    "Version": "2.0.0-2",
     "Description": "A simple editor for simple needs (Microsoft Edit)",
     "Homepage": "https://github.com/microsoft/edit"
   },
@@ -11707,7 +11707,7 @@
   },
   {
     "Package": "music-file-organizer",
-    "Version": "1.0.4-10",
+    "Version": "1.0.4-11",
     "Description": "Organizer of audio files into directories based on metadata tags",
     "Homepage": "https://git.zx2c4.com/music-file-organizer/about/"
   },
@@ -11839,7 +11839,7 @@
   },
   {
     "Package": "ncmpcpp",
-    "Version": "0.10.1-10",
+    "Version": "0.10.1-11",
     "Description": "NCurses Music Player Client (Plus Plus)",
     "Homepage": "https://rybczak.net/ncmpcpp/"
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "Package": "peaclock",
-    "Version": "0.4.3-9",
+    "Version": "0.4.3-10",
     "Description": "A responsive and customizable clock, timer, and stopwatch for the terminal.",
     "Homepage": "https://github.com/octobanana/peaclock"
   },
@@ -13063,31 +13063,31 @@
   },
   {
     "Package": "php",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -13099,13 +13099,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -13117,13 +13117,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -13141,7 +13141,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.5.12-1",
+    "Version": "8.5.12-2",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
@@ -13387,13 +13387,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "18.6",
+    "Version": "18.6-1",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "18.6",
+    "Version": "18.6-1",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -14857,7 +14857,7 @@
   },
   {
     "Package": "samba",
-    "Version": "4.25.1",
+    "Version": "4.25.1-1",
     "Description": "SMB/CIFS fileserver",
     "Homepage": "https://www.samba.org/"
   },
@@ -16015,7 +16015,7 @@
   },
   {
     "Package": "tectonic",
-    "Version": "0.17.0-1",
+    "Version": "0.17.0-2",
     "Description": "A modernized, complete, self-contained TeX/LaTeX engine",
     "Homepage": "https://tectonic-typesetting.github.io/"
   },
@@ -16189,7 +16189,7 @@
   },
   {
     "Package": "tesseract",
-    "Version": "5.5.4",
+    "Version": "5.5.4-1",
     "Description": "Tesseract is probably the most accurate open source OCR engine available",
     "Homepage": "https://github.com/tesseract-ocr/tesseract"
   },
@@ -16351,7 +16351,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.12.0",
+    "Version": "3.12.0-1",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
@@ -16861,7 +16861,7 @@
   },
   {
     "Package": "unar",
-    "Version": "1.10.8-3",
+    "Version": "1.10.8-4",
     "Description": "Command line tools for archive and file unarchiving and extraction",
     "Homepage": "https://theunarchiver.com/command-line"
   },
@@ -17707,13 +17707,13 @@
   },
   {
     "Package": "xerces-c",
-    "Version": "3.3.0",
+    "Version": "3.3.0-1",
     "Description": "Validating XML parser library for C++.",
     "Homepage": "https://xerces.apache.org/"
   },
   {
     "Package": "xerces-c-static",
-    "Version": "3.3.0",
+    "Version": "3.3.0-1",
     "Description": "Static libraries for xerces-c",
     "Homepage": "https://xerces.apache.org/"
   },
@@ -18031,7 +18031,7 @@
   },
   {
     "Package": "znc",
-    "Version": "1.10.3",
+    "Version": "1.10.3-1",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },
