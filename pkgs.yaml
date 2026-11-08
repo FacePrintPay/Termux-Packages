@@ -343,39 +343,39 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -743,7 +743,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.4-2
+  Version: 1.4.4-3
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -1587,15 +1587,15 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1603,111 +1603,111 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet10.0
-  Version: 10.0.13
+  Version: 10.0.13-1
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -7903,7 +7903,7 @@
   Description: An ncurses mixer for PulseAudio
   Homepage: https://github.com/fulhax/ncpamixer
 - Package: ncspot
-  Version: 1.5.0-1
+  Version: 1.5.1
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
@@ -8015,11 +8015,11 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.32
+  Version: 8.0.32-1
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.21
+  Version: 9.0.21-1
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -8087,11 +8087,11 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 26.13.0
+  Version: 26.13.0-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 24.22.2
+  Version: 24.22.2-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -8195,7 +8195,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.9.1-1
+  Version: 32.0.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -10283,7 +10283,7 @@
   Description: C library for finding and handling crystal symmetries
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spidermonkey
-  Version: 140.17.0
+  Version: 140.17.0-1
   Description: Mozillas JavaScript engine
   Homepage: https://spidermonkey.dev
 - Package: spiped
@@ -10443,7 +10443,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.166.1
+  Version: 1.166.2
   Description: Storj DCS Uplink CLI
   Homepage: https://github.com/storj/storj
 - Package: stow
