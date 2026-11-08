@@ -1843,7 +1843,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.6.4",
+    "Version": "1:11.6.5",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "Package": "groff",
-    "Version": "1.24.2",
+    "Version": "1.25.0",
     "Description": "typesetting system that reads plain text mixed with formatting commands and produces formatted output",
     "Homepage": "https://www.gnu.org/software/groff/"
   },
@@ -5533,7 +5533,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.66.2-1",
+    "Version": "0.66.3",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -10861,7 +10861,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.33.0",
+    "Version": "1.33.1",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
