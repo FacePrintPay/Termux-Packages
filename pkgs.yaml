@@ -983,11 +983,11 @@
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
-  Version: 6.0.0
+  Version: 6.1.0
   Description: A feature rich Scheme compiler and interpreter
   Homepage: https://www.call-cc.org
 - Package: chicken-static
-  Version: 6.0.0
+  Version: 6.1.0
   Description: Static libraries for chicken
   Homepage: https://www.call-cc.org
 - Package: chntpw
@@ -4487,11 +4487,11 @@
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libexttextcat
-  Version: 3.4.8
+  Version: 3.4.9
   Description: N-Gram-Based Text Categorization library primarily intended for language guessing
   Homepage: https://wiki.documentfoundation.org/Libexttextcat
 - Package: libexttextcat-static
-  Version: 3.4.8
+  Version: 3.4.9
   Description: Static libraries for libexttextcat
   Homepage: https://wiki.documentfoundation.org/Libexttextcat
 - Package: libfann
@@ -6143,11 +6143,11 @@
   Description: Static libraries for libstaroffice
   Homepage: https://github.com/fosnola/libstaroffice
 - Package: libstemmer
-  Version: 3.1.1
+  Version: 3.2.0
   Description: Snowball compiler and stemming algorithms
   Homepage: https://snowballstem.org/
 - Package: libstemmer-static
-  Version: 3.1.1
+  Version: 3.2.0
   Description: Static libraries for libstemmer
   Homepage: https://snowballstem.org/
 - Package: libstrophe
@@ -9831,7 +9831,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20261102"
+  Version: "20261109"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10411,7 +10411,7 @@
   Description: Embeds a message in a file by replacing some of the least significant bits
   Homepage: https://steghide.sourceforge.net/
 - Package: stemwords
-  Version: 3.1.1
+  Version: 3.2.0
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli

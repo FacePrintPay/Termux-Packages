@@ -1477,13 +1477,13 @@
   },
   {
     "Package": "chicken",
-    "Version": "6.0.0",
+    "Version": "6.1.0",
     "Description": "A feature rich Scheme compiler and interpreter",
     "Homepage": "https://www.call-cc.org"
   },
   {
     "Package": "chicken-static",
-    "Version": "6.0.0",
+    "Version": "6.1.0",
     "Description": "Static libraries for chicken",
     "Homepage": "https://www.call-cc.org"
   },
@@ -6733,13 +6733,13 @@
   },
   {
     "Package": "libexttextcat",
-    "Version": "3.4.8",
+    "Version": "3.4.9",
     "Description": "N-Gram-Based Text Categorization library primarily intended for language guessing",
     "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
   },
   {
     "Package": "libexttextcat-static",
-    "Version": "3.4.8",
+    "Version": "3.4.9",
     "Description": "Static libraries for libexttextcat",
     "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
   },
@@ -9217,13 +9217,13 @@
   },
   {
     "Package": "libstemmer",
-    "Version": "3.1.1",
+    "Version": "3.2.0",
     "Description": "Snowball compiler and stemming algorithms",
     "Homepage": "https://snowballstem.org/"
   },
   {
     "Package": "libstemmer-static",
-    "Version": "3.1.1",
+    "Version": "3.2.0",
     "Description": "Static libraries for libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -14749,7 +14749,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20261102",
+    "Version": "20261109",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -15619,7 +15619,7 @@
   },
   {
     "Package": "stemwords",
-    "Version": "3.1.1",
+    "Version": "3.2.0",
     "Description": "A command-line tool which uses libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
