@@ -108,7 +108,7 @@
 | **aspnetcore-targeting-pack-8.0** | 8.0.32-1 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.21-1 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
-| **astyle** | 3.6.22 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
+| **astyle** | 3.6.23 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
 | **asymptote** | 3.15 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.62.1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
@@ -239,7 +239,7 @@
 | **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
 | **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | **cc65** | 2.19-1 | A free compiler for 6502 based system | https://cc65.github.io/ |
-| **ccache** | 4.14.2-1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
+| **ccache** | 4.14.3 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.96.6-1 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20261004 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
@@ -736,8 +736,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.49 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.49 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 16.1.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 16.1.0 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 16.1.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 16.1.1 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 5.2 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-3 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -849,8 +849,8 @@
 | **inetutils** | 2.8-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-5 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.13.0-1 | A tool to unpack installers created by Inno Setup | https://github.com/crazy-max/innoextract |
-| **inotify-tools** | 4.26.272 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
-| **inotify-tools-static** | 4.26.272 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools** | 4.26.275 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools-static** | 4.26.275 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
 | **inshellisense** | 0.0.4 | IDE style command line auto complete | https://github.com/microsoft/inshellisense |
 | **intltool** | 0.51.0-4 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.41-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
@@ -1552,7 +1552,7 @@
 | **libstemmer-static** | 3.1.1 | Static libraries for libstemmer | https://snowballstem.org/ |
 | **libstrophe** | 0.14.0-2 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
 | **libstrophe-static** | 0.14.0-2 | Static libraries for libstrophe | https://strophe.im/libstrophe |
-| **libsynctex** | 1:2026.0-2 | Library for synchronization between TeX files and resulting file | https://www.tug.org/texlive/ |
+| **libsynctex** | 1:2026.0-3 | Library for synchronization between TeX files and resulting file | https://www.tug.org/texlive/ |
 | **libt3config** | 1.0.0-2 | A library for reading and writing configuration files | https://os.ghalkes.nl/t3/libt3config.html |
 | **libt3highlight** | 0.5.0-2 | A library for syntax highlighting different types of text files | https://os.ghalkes.nl/t3/libt3highlight.html |
 | **libt3key** | 0.2.11-1 | A library and database with escape sequence to key symbol mappings | https://os.ghalkes.nl/t3/libt3key.html |
@@ -2715,8 +2715,8 @@
 | **tex-gyre** | 2.501-2 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.3 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
 | **texlab** | 5.26.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
-| **texlive-bin** | 1:2026.0-2 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
-| **texlive-bin-static** | 1:2026.0-2 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
+| **texlive-bin** | 1:2026.0-3 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
+| **texlive-bin-static** | 1:2026.0-3 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20260301 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
 | **tgpt** | 2.15.0-1 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.25.0 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
@@ -2995,7 +2995,7 @@
 | **yazi** | 26.9.1-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.70 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.10.7 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.8 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.54.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |

@@ -577,7 +577,7 @@
   },
   {
     "Package": "astyle",
-    "Version": "3.6.22",
+    "Version": "3.6.23",
     "Description": "Source code formatter for C-like programming languages",
     "Homepage": "https://astyle.sourceforge.net/"
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.14.2-1",
+    "Version": "4.14.3",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -4345,13 +4345,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "16.1.0",
+    "Version": "16.1.1",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "16.1.0",
+    "Version": "16.1.1",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -5023,13 +5023,13 @@
   },
   {
     "Package": "inotify-tools",
-    "Version": "4.26.272",
+    "Version": "4.26.275",
     "Description": "Programs providing a simple interface to inotify",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
   {
     "Package": "inotify-tools-static",
-    "Version": "4.26.272",
+    "Version": "4.26.275",
     "Description": "Static libraries for inotify-tools",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
@@ -9241,7 +9241,7 @@
   },
   {
     "Package": "libsynctex",
-    "Version": "1:2026.0-2",
+    "Version": "1:2026.0-3",
     "Description": "Library for synchronization between TeX files and resulting file",
     "Homepage": "https://www.tug.org/texlive/"
   },
@@ -16219,13 +16219,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "1:2026.0-2",
+    "Version": "1:2026.0-3",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "1:2026.0-2",
+    "Version": "1:2026.0-3",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
@@ -17899,7 +17899,7 @@
   },
   {
     "Package": "youtubedr",
-    "Version": "2.10.7",
+    "Version": "2.10.8",
     "Description": "Download youtube video in Golang",
     "Homepage": "https://github.com/kkdai/youtube"
   },
