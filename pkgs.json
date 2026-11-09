@@ -2845,25 +2845,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.13",
+    "Version": "7.0.0",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.13",
+    "Version": "7.0.0",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.13",
+    "Version": "7.0.0",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.13",
+    "Version": "7.0.0",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -5995,7 +5995,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.4.1",
+    "Version": "3.6.0",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1793383622+gea9eb7e",
+    "Version": "1:2.1.1794214635+gc4b1e2f",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10669,7 +10669,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1793383622+gea9eb7e",
+    "Version": "1:2.1.1794214635+gc4b1e2f",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -10717,7 +10717,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.53.3",
+    "Version": "0.54.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11383,7 +11383,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.11.4",
+    "Version": "2026.11.5",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.30.2",
+    "Version": "2.30.3",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12751,7 +12751,7 @@
   },
   {
     "Package": "oxlint",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14593,7 +14593,7 @@
   },
   {
     "Package": "rolldown",
-    "Version": "1.3.0",
+    "Version": "1.3.1",
     "Description": "Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API",
     "Homepage": "https://rolldown.rs/"
   },
@@ -16387,7 +16387,7 @@
   },
   {
     "Package": "tomcat",
-    "Version": "11.0.27-1",
+    "Version": "11.0.28",
     "Description": "Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies",
     "Homepage": "https://tomcat.apache.org/"
   },
@@ -16411,7 +16411,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.15.0",
+    "Version": "17.16.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -17497,13 +17497,13 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.10.2",
+    "Version": "4.10.3",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.10.2",
+    "Version": "4.10.3",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17515,19 +17515,19 @@
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.10.2",
+    "Version": "4.10.3",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.10.2",
+    "Version": "4.10.3",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.10.2",
+    "Version": "4.10.3",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17905,7 +17905,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.54.2",
+    "Version": "4.54.3",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
