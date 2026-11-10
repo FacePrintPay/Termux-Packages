@@ -93,7 +93,7 @@
  aspnetcore-targeting-pack-10.0  10.0.13-1  ASP.NET Core 10.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-8.0  8.0.32-1  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-9.0  9.0.21-1  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- assimp  6.0.5-1  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
+ assimp  6.0.6  Library to import various well-known 3D model formats in an uniform manner  https://www.assimp.org/ 
  astyle  3.6.23  Source code formatter for C-like programming languages  https://astyle.sourceforge.net/ 
  asymptote  3.15  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-2  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
@@ -290,7 +290,7 @@
  composer  2.11.1  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
- cookcli  0.41.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
+ cookcli  0.41.1  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.12  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-7  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
@@ -438,7 +438,7 @@
  dtc  1.8.1  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dtc-static  1.8.1  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
- dua  3.0.0  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
+ dua  3.0.1  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
  duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  2.0.0  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1-1  Disk usage/free utility  https://github.com/muesli/duf 
@@ -493,7 +493,7 @@
  exercism  3.5.9-1  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exfatprogs  1.4.3  exFAT filesystem userspace utilities  https://github.com/exfatprogs/exfatprogs 
  exhale  1.2.2RC+really1.2.2  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  13.61  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  13.62  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.9  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  expect  5.45.4-4  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
  eza  0.23.5  A modern replacement for ls  https://github.com/eza-community/eza 
@@ -544,7 +544,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.2  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.5.5  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.5.6  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0-1  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:12.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -779,7 +779,7 @@
  hidapi  0.15.0  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
  highway  1.4.0-1  Performance-portable, length-agnostic SIMD with runtime dispatch  https://github.com/google/highway 
  hilbish  1:2.3.4-2  The Moon-powered shell! A comfy and extensible shell for Lua fans!  https://rosettea.github.io/Hilbish/ 
- hk  2.11.1  A tool for managing git hooks  https://hk.jdx.dev/ 
+ hk  2.12.0  A tool for managing git hooks  https://hk.jdx.dev/ 
  hledger  1.52.4  Robust, friendly, fast plain text accounting software. (CLI only)  https://hledger.org/ 
  hledger-ui  1.52.4  hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.  https://hledger.org/ 
  hnterm  1.0.5-2  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
@@ -2054,8 +2054,8 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.40.15  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.40.15  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.40.16  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.40.16  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.28.3  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  3.2.0  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -2214,7 +2214,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.18.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.19.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.6  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2729,7 +2729,7 @@
  tmux  3.8  Terminal multiplexer  https://tmux.github.io/ 
  toilet  0.3-3  FIGlet-compatible display of large colourful characters in text mode  http://caca.zoy.org/wiki/toilet 
  tokei  15.0.0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
- tomcat  11.0.28  Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies  https://tomcat.apache.org/ 
+ tomcat  11.0.29  Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies  https://tomcat.apache.org/ 
  tome2  2025.12.13-3  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  tomlplusplus  3.4.0  Header-only TOML config file parser and serializer for C++ 17  https://marzer.github.io/tomlplusplus/ 
@@ -2761,7 +2761,7 @@
  tree-sitter-query  0.8.0-3  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-query 
  tree-sitter-regex  0.25.0-2  RegEx grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-regex 
  tree-sitter-rust  0.24.2-2  Rust grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-rust 
- tree-sitter-sql  0.3.11-2  SQL grammar for tree-sitter  https://github.com/derekstride/tree-sitter-sql 
+ tree-sitter-sql  0.3.12  SQL grammar for tree-sitter  https://github.com/derekstride/tree-sitter-sql 
  tree-sitter-toml  0.7.0-2  TOML grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-toml 
  tree-sitter-vim  0.8.1-2  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-vim 
  tree-sitter-vimdoc  4.3.0  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
