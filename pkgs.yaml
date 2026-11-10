@@ -811,11 +811,11 @@
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
-  Version: 4.8.2-2
+  Version: 4.9.0
   Description: calcurse is a calendar and scheduling application for the command line
   Homepage: https://calcurse.org/
 - Package: calcurse-caldav
-  Version: 4.8.2-2
+  Version: 4.9.0
   Description: Sync calcurse with remote caldav calendar
   Homepage: https://calcurse.org/
 - Package: capnproto
@@ -835,7 +835,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-audit
-  Version: 0.22.2
+  Version: 0.23.0
   Description: Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database
   Homepage: https://rustsec.org
 - Package: cargo-binstall
@@ -1155,7 +1155,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.11.1
+  Version: 2.11.2
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -1555,7 +1555,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 2.3.0
+  Version: 2.4.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -1971,7 +1971,7 @@
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
-  Version: 1.4.3
+  Version: 1.4.4
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
@@ -2583,7 +2583,7 @@
   Description: An OpenGL to PostScript printing library
   Homepage: https://www.geuz.org/gl2ps/
 - Package: glab-cli
-  Version: 1.128.0
+  Version: 1.129.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3615,7 +3615,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.4.2
+  Version: 4.4.3
   Description: Music for the Shell
   Homepage: https://kewplayer.com
 - Package: keybase
@@ -6735,7 +6735,7 @@
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
-  Version: 0.3.29
+  Version: 0.3.30
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
@@ -7435,7 +7435,7 @@
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
 - Package: mdcat
-  Version: 2.19.0
+  Version: 2.20.0
   Description: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
   Homepage: https://github.com/BIRSAx2/mdcat
 - Package: mdds
@@ -8163,7 +8163,7 @@
   Description: Static libraries for oathtool
   Homepage: https://oath-toolkit.codeberg.page/
 - Package: oci-cli
-  Version: 3.96.0
+  Version: 3.96.1
   Description: Command line interface for Oracle Cloud Infrastructure
   Homepage: https://github.com/oracle/oci-cli
 - Package: ocl-icd
@@ -10443,7 +10443,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.166.2
+  Version: 1.166.3
   Description: Storj DCS Uplink CLI
   Homepage: https://github.com/storj/storj
 - Package: stow
@@ -11967,7 +11967,7 @@
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
-  Version: 5.3.3
+  Version: 5.4.0
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar

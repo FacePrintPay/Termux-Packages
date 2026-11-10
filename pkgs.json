@@ -1219,13 +1219,13 @@
   },
   {
     "Package": "calcurse",
-    "Version": "4.8.2-2",
+    "Version": "4.9.0",
     "Description": "calcurse is a calendar and scheduling application for the command line",
     "Homepage": "https://calcurse.org/"
   },
   {
     "Package": "calcurse-caldav",
-    "Version": "4.8.2-2",
+    "Version": "4.9.0",
     "Description": "Sync calcurse with remote caldav calendar",
     "Homepage": "https://calcurse.org/"
   },
@@ -1255,7 +1255,7 @@
   },
   {
     "Package": "cargo-audit",
-    "Version": "0.22.2",
+    "Version": "0.23.0",
     "Description": "Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database",
     "Homepage": "https://rustsec.org"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.11.1",
+    "Version": "2.11.2",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "2.3.0",
+    "Version": "2.4.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -2959,7 +2959,7 @@
   },
   {
     "Package": "exfatprogs",
-    "Version": "1.4.3",
+    "Version": "1.4.4",
     "Description": "exFAT filesystem userspace utilities",
     "Homepage": "https://github.com/exfatprogs/exfatprogs"
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.128.0",
+    "Version": "1.129.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -5425,7 +5425,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.4.2",
+    "Version": "4.4.3",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -10105,7 +10105,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.29",
+    "Version": "0.3.30",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -11155,7 +11155,7 @@
   },
   {
     "Package": "mdcat",
-    "Version": "2.19.0",
+    "Version": "2.20.0",
     "Description": "Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal",
     "Homepage": "https://github.com/BIRSAx2/mdcat"
   },
@@ -12247,7 +12247,7 @@
   },
   {
     "Package": "oci-cli",
-    "Version": "3.96.0",
+    "Version": "3.96.1",
     "Description": "Command line interface for Oracle Cloud Infrastructure",
     "Homepage": "https://github.com/oracle/oci-cli"
   },
@@ -15667,7 +15667,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.166.2",
+    "Version": "1.166.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://github.com/storj/storj"
   },
@@ -17953,7 +17953,7 @@
   },
   {
     "Package": "z3",
-    "Version": "5.3.3",
+    "Version": "5.4.0",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
