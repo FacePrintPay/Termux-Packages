@@ -419,7 +419,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.24.5
+  Version: 18.24.6
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.39.6
+  Version: 2.39.7
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -779,11 +779,11 @@
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
-  Version: 1:2026.11.05
+  Version: 1:2026.11.05-1
   Description: Common CA certificates
   Homepage: https://curl.se/docs/caextract.html
 - Package: ca-certificates-java
-  Version: 1:2026.11.05
+  Version: 1:2026.11.05-1
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabal-install
@@ -3439,7 +3439,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2994
+  Version: 0.24.3042
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3651,7 +3651,7 @@
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
-  Version: 1.22.2
+  Version: 1.22.3
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
@@ -5075,7 +5075,7 @@
   Description: Library for dlopening libraries
   Homepage: https://www.gnu.org/software/libtool/
 - Package: liblz4
-  Version: 1.11.0
+  Version: 1.11.1
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
@@ -7207,7 +7207,7 @@
   Description: A pluggable transport plugin for Tor
   Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
 - Package: lz4
-  Version: 1.11.0
+  Version: 1.11.1
   Description: Fast LZ compression algorithm tool
   Homepage: https://lz4.github.io/lz4/
 - Package: lzip
@@ -7967,7 +7967,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-2052+gc868e1ab3d-0
+  Version: 0.13.0~dev-2069+g0c4b90023d-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8143,7 +8143,7 @@
   Description: A statically typed programming language for scientific computations with first class support for physical dimensions and units
   Homepage: https://numbat.dev/
 - Package: nushell
-  Version: 0.116.1
+  Version: 0.117.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -8291,7 +8291,7 @@
   Description: Khronos OpenCL-Headers
   Homepage: https://github.com/KhronosGroup/OpenCL-Headers
 - Package: opencl-vendor-driver
-  Version: 0.3-1
+  Version: 0.3-2
   Description: OpenCL driver from system vendor
   Homepage: https://termux.dev
 - Package: opencolorio
@@ -8315,39 +8315,39 @@
   Description: Codec library supporting H.264 encoding and decoding
   Homepage: https://www.openh264.org/
 - Package: openjdk-17
-  Version: 17.0.21-1
+  Version: 17.0.21-2
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-source
-  Version: 17.0.21-1
+  Version: 17.0.21-2
   Description: Source files for openjdk-17
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-x
-  Version: 17.0.21-1
+  Version: 17.0.21-2
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.13-1
+  Version: 21.0.13-2
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.13-1
+  Version: 21.0.13-2
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.13-1
+  Version: 21.0.13-2
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25
-  Version: 25.0.5-1
+  Version: 25.0.5-2
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-25-source
-  Version: 25.0.5-1
+  Version: 25.0.5-2
   Description: Source files for openjdk-25
   Homepage: https://openjdk.java.net
 - Package: openjdk-25-x
-  Version: 25.0.5-1
+  Version: 25.0.5-2
   Description: Portion of openjdk-25 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
@@ -11175,7 +11175,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.4.5
+  Version: 16.4.6
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -11207,7 +11207,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.99
+  Version: 0.0.100
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11663,11 +11663,11 @@
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
-  Version: 4.10.3
+  Version: 4.10.4
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.10.3
+  Version: 4.10.4
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-matrix-rs
@@ -11675,15 +11675,15 @@
   Description: Rust rewrite of the python weechat-matrix script
   Homepage: https://github.com/poljar/weechat-matrix-rs
 - Package: weechat-perl-plugin
-  Version: 4.10.3
+  Version: 4.10.4
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.10.3
+  Version: 4.10.4
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.10.3
+  Version: 4.10.4
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli

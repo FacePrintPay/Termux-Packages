@@ -631,7 +631,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.24.5",
+    "Version": "18.24.6",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.39.6",
+    "Version": "2.39.7",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1171,13 +1171,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2026.11.05",
+    "Version": "1:2026.11.05-1",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2026.11.05",
+    "Version": "1:2026.11.05-1",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2994",
+    "Version": "0.24.3042",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5479,7 +5479,7 @@
   },
   {
     "Package": "krb5",
-    "Version": "1.22.2",
+    "Version": "1.22.3",
     "Description": "The Kerberos network authentication system",
     "Homepage": "https://web.mit.edu/kerberos"
   },
@@ -7615,7 +7615,7 @@
   },
   {
     "Package": "liblz4",
-    "Version": "1.11.0",
+    "Version": "1.11.1",
     "Description": "Fast LZ compression algorithm library",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -10813,7 +10813,7 @@
   },
   {
     "Package": "lz4",
-    "Version": "1.11.0",
+    "Version": "1.11.1",
     "Description": "Fast LZ compression algorithm tool",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-2052+gc868e1ab3d-0",
+    "Version": "0.13.0~dev-2069+g0c4b90023d-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12217,7 +12217,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.116.1",
+    "Version": "0.117.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "Package": "opencl-vendor-driver",
-    "Version": "0.3-1",
+    "Version": "0.3-2",
     "Description": "OpenCL driver from system vendor",
     "Homepage": "https://termux.dev"
   },
@@ -12475,55 +12475,55 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.21-1",
+    "Version": "17.0.21-2",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.21-1",
+    "Version": "17.0.21-2",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.21-1",
+    "Version": "17.0.21-2",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.13-1",
+    "Version": "21.0.13-2",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.13-1",
+    "Version": "21.0.13-2",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.13-1",
+    "Version": "21.0.13-2",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25",
-    "Version": "25.0.5-1",
+    "Version": "25.0.5-2",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25-source",
-    "Version": "25.0.5-1",
+    "Version": "25.0.5-2",
     "Description": "Source files for openjdk-25",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25-x",
-    "Version": "25.0.5-1",
+    "Version": "25.0.5-2",
     "Description": "Portion of openjdk-25 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -16765,7 +16765,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.4.5",
+    "Version": "16.4.6",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
@@ -16813,7 +16813,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.99",
+    "Version": "0.0.100",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17497,13 +17497,13 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.10.3",
+    "Version": "4.10.4",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.10.3",
+    "Version": "4.10.4",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17515,19 +17515,19 @@
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.10.3",
+    "Version": "4.10.4",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.10.3",
+    "Version": "4.10.4",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.10.3",
+    "Version": "4.10.4",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
